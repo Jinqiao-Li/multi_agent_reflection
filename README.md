@@ -2,7 +2,14 @@
 
 This project contains a multi-agent model designed to generate feedback for students' reflective writing tasks.
 
-![Framework Overview](images/framework.png)
+
+The model is build with Langgraph:
+
+![Langgraph Framework Overview](images/langgraph.png)
+
+This is the overall structure: 
+
+![model_structure](images/flow.png)
 
 ## File Descriptions
 
