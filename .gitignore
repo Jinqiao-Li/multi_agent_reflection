@@ -1,0 +1,28 @@
+# Ignore all hidden files (dotfiles), except .gitignore
+.*
+!/.gitignore
+
+# Ignore Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+.env/
+*.env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Ignore Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/

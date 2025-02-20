@@ -1,0 +1,505 @@
+coll_lecture	coll_session	subj	text_id	sentence	sentences english	gibs	label_ref	sentiment	gibbs	gibbs.1
+swp	2	1	0	ich keine erfahrung in projekarbeiten und auch sehr wenig im programmieren	i have no experience in project work and also very little in programming		0	3	0/2	0
+swp	2	2	0	Gutes Team, Interessantes	Good team, interesting		0	4	2022-01-02 00:00:00	1
+swp	2	2	0	Projekt, remote, mehrmals pro woche, weil es spass macht, mehrmals pro woche	Project, remote, several times a week, because it is fun, several times a week		1	4	2022-01-02 00:00:00	1
+swp	2	3	0	Viel organisatorisches	A lot of organizational stuff		0	3	0	0
+swp	2	4	0	Infrastrucktur eingerichtet, Zeitplan erstellt, wissen zum Thema angelesen	Infrastructure set up, schedule created, knowledge about the topic acquired		0	3	0	0
+swp	2	5	0	Erste Kommunikation, minimale Wissensaneignung	First communication, minimal knowledge acquisition		0	3	0/2	0
+swp	2	6	0	Die letzte Woche war okay.	Last week was okay.		0	3	0/2	0
+swp	2	6	0	Aber bisher wurde ja nur geplant, ich prokrastiniere aktuell nur, mich mit der Software auseinanderzusetzen.	But so far it's just been planning, I'm currently just procrastinating getting to grips with the software.		1	2	0/2	2
+swp	2	6	0	Ich ahne, dass noch viel Arbeit auf mich zukommt.	I suspect that there is still a lot of work to do.		1	3	2022-03-02 00:00:00	3
+swp	2	7	0	Vorbereiten der Entwicklungsumgebung, Verbinden mit dem Remote-Server, Einrichten des Projekt-Repository	Preparing the development environment, connecting to the remote server, setting up the project repository.		0	3	0	0
+swp	2	8	0	Ich habe eine Idee worum das Thema geht, aber teilweise hinderlich ist, dass man nicht genau weiss, was zur einem zur Verfügung steht in Anbetracht der Daten etc.	I have an idea what the topic is about, but partly hindering is that you don't know exactly what is available to you given the data, etc.		1	6	2	2
+swp	2	9	0	Arbeiten in der Gruppe läuft gut.	Working in the group is going well.		0	4	2022-01-02 00:00:00	1
+swp	2	9	0	Erste Schritte und Gedanken wurden gemacht.	First steps and thoughts have been made.		0	3	0	0
+swp	2	9	0	Details zu dem Projekt sind leider noch nicht bekannt.	Details of the project are unfortunately not yet known.		0	2	0	0
+swp	2	10	0	Wenig Gruppenarbeit bisher gemacht aufgrund von Kommunikations-Schwierigkeiten und dadurch ein wenig erschlagen vom Start.	Little group work done so far due to communication difficulties and thus a bit slammed from the start.		1	2	2022-02-03 00:00:00	2
+swp	2	11	0	War nicht viel zu tun in dieser Woche.	Wasn't much to do this week.		0	3	0	0
+swp	2	11	0	Die größte Herausforderung war es Kontakt zu Team Membern aufzubauen.	The biggest challenge was to establish contact to team members.		1	2	2	2
+swp	2	12	0	Die Teamgröße war leider nicht so groß.	Unfortunately the team size was not that big.		0	2	2	2
+swp	2	12	0	Es hat sehr viel Spaß gemacht, wie wir miteinander im Team im ersten Meeting gestern zusammengekommen sind.	It was a lot of fun how we came together in the team in the first meeting yesterday.		1	5	2022-01-02 00:00:00	1
+swp	2	12	0	Dass wir die latency nicht bedacht haben war schade, aber kann man sicherlich auch eine Lösung für finden.	It was a pity that we didn't consider the latency, but we can surely find a solution for it.		1	6	2/3/4/	2
+swp	2	12	0	Es gab bischer noch nicht so viel Fortschritt, unter anderem einfach, weil ich noch nicht die Zeit hatte, mich da stark einzufinden.	There hasn't been that much progress yet, partly because I haven't had the time to really get into it yet.		1	2	2022-03-02 00:00:00	2
+swp	2	12	0	Der Vortrag war gut und ich habe Lob erhalten, was gut war.	The lecture was good and I received praise, which was good.		1	4	2022-01-02 00:00:00	1
+swp	2	12	0	Die Vortrags-Art hätte besser sein können, es war nicht flüssig genug.	The lecture style could have been better, it wasn't fluid enough.		1	2	2	2
+swp	2	12	0	Möglicherweise sollten wir uns in unserer Planung etwas näher an die Hardware & Software-Gegebenheiten halten.	May need to be a little closer to hardware & software realities in our planning.		1	3	2022-03-02 00:00:00	3
+swp	2	13	0	Hatte einige Diskussionen mit den Teammitgliedern und schloss die erste Präsentation ab	Had some discussions with team members and concluded the first presentation		0	3	0	0
+swp	2	15	0	Wir haben die Meilensteine vorbereitet und waren viel mit E-Mail Korrespondenz beschäftigt.	We prepared the milestones and were busy with email correspondence.		0	3	0	0
+swp	2	15	0	Es ist etwas schwierig den Überblick im offiziellen Google Dokument zu behalten.	It is a bit difficult to keep track of the official Google document.		1	2	2	2
+swp	2	0	1	Pojektplanung	Project planning		0	3	0	0
+swp	2	1	1	noch dabei sich reinzulesen	still reading in		0	3	0	0
+swp	2	2	1	habe einsichten in vorgehensweisen erhalten, alles richtig gemacht	got insights into procedures, did everything right		0	3	0	0
+swp	2	3	1	Noch nicht viel gelernt	Not much learned yet		0	3	0	0
+swp	2	4	1	Sehr viel neues über die Infrastrucktur gelernt und das allgemeine Thema	Learned a lot of new things about the infrastructure and the general topic.		1	3	0	0
+swp	2	5	1	Bisher nicht viel, etwas an basics...	Not much so far, something about basics....		0	3	0	0
+swp	2	5	1	Noch keine größeren Sinneswandel o.ä.	No major change of mind or similar yet.		1	3	0	0
+swp	2	6	1	Bis dato habe ich leider noch nicht viel Zeit in das Softwareprojekt gesteckt.	So far I haven't put much time into the software project unfortunately.		1	2	0	0
+swp	2	6	1	Ich fühle mich mit dem Semester etwas überfordert und habe Schwierigkeiten mit dem Zeitmanagement.	I feel a bit overwhelmed with the semester and am having trouble with time management.		1	2	2022-01-02 00:00:00	1
+swp	2	7	1	Ich habe gelernt, wie man ssh benutzt und wie man einen Remote-Server in der ML-Entwicklung benutzt	I have learned how to use ssh and how to use a remote server in ML development		1	3	0	0
+swp	2	8	1	Im Vergleich zu letzter Woche habe ich an Selbstbewusstsein verloren.	I have lost confidence compared to last week.		1	2	2	2
+swp	2	9	1	Aufgaben besser lesen.	Reading assignments better.		0	3	0/2	0
+swp	2	9	1	Ansonsten gute Zusammenarbeit in der Gruppe.	Otherwise good cooperation in the group.		1	4	2022-02-01 00:00:00	1
+swp	2	10	1	Mehr lesen und öfter alle Kommunikationskanäle checken.	Read more and check all communication channels more often.		0	3	0/2	0
+swp	2	11	1	Ich habe neue Leute kennen gelernt und bin glücklich mit meinem Team.	I met new people and am happy with my team.		1	4	1	1
+swp	2	12	1	Wir waren an ein paar Punkten blind und haben jetzt einen besseren Überblick.	We were blind at a few points and now have a better overview.		1	6	2	2
+swp	2	12	1	Es ist  Neuland, habe ich gemerkt.	It's new territory, I've noticed.		1	3	2022-01-02 00:00:00	1
+swp	2	12	1	Die gelernten Sachen können wir definitiv in unser Plan integrieren.	We can definitely integrate the things we learned into our plan.		1	3	0/2	0
+swp	2	12	1	Bisschen mehr auf die Requirements von Seiten des Labs achten ist ich glaube die Devise.	I think the motto is to pay a little more attention to the lab's requirements.		1	3	2022-04-03 00:00:00	3
+swp	2	13	1	Mir ist klarer, was ich als nächstes tun soll	It is clearer to me what to do next.		1	3	2	2
+swp	2	14	1	Ich habe einige Informationen über Modelle gelernt und habe eine Ahnung wie ich mein eigenes Verständnis etwas erweitern kann	I have learned some information about models and have an idea how to expand my own understanding a bit		1	3	0/2	2
+swp	2	0	2	Datenbeschaffung	data sourcing		0	3	0	0
+swp	2	1	2	mit anderen mitzuhalten, weil mein niveau niedriger ist	keep up with others because my level is lower		1	2	2022-02-03 00:00:00	2
+swp	2	2	2	wenig interesse im projekt ursprünlighc	little interest in the project originally		0	6	1	1
+swp	2	3	2	Viel warten auf Antworten	A lot of waiting for answers		0	2	0/2	0
+swp	2	4	2	Teileweise sind manche technischen Modelle noch schwer zu vertsehen, sehr viel auf einmal	Some technical models are still hard to understand, very much at once		1	2	2	2
+swp	2	5	2	Kommunikation, Arbeitsteilung	Communication, division of labor		0	3	0	0
+swp	2	6	2	Ich finde es schwer, Uni und Sozialleben in diesen unvorhersehbaren Coronazeiten zu ordnen.	I find it hard to order uni and social life in these unpredictable corona times.		1	2	2022-02-01 00:00:00	1
+swp	2	7	2	Keine	No		0	3	0	0
+swp	2	8	2	Unwissenheit über die Anzahl der Daten, Vorgehensweisen, Zeitplan	Ignorance about the number of data, procedures, schedule.		0	2	0/2	0
+swp	2	9	2	Details zu dem Projekt herausfinden und abklären.	Finding out and clarifying details about the project.		0	3	0	0
+swp	2	11	2	Die größte Herausforderung war es Kontakt zu Team Membern aufzubauen.	The biggest challenge was establishing contact with team members.		1	2	2	2
+swp	2	12	2	Latency ist ein großes Problem.	Latency is a big issue.		1	2	2022-02-03 00:00:00	3
+swp	2	12	2	Ich hoffe wir können das alles klären und das wird nicht Mehrarbeit heißen.	Hope we can sort it all out and it won't mean extra work.		1	6	2022-05-02 00:00:00	5
+swp	2	13	2	nicht viel Erfahrung mit Softwareprojekt	Not much experience with software project		1	2	0/2	0
+swp	2	14	2	Ich hatte etwas Probleme in das Thema rein zu kommen aber ich vermute dass sich das mit etwas Recherche verbessern wird	I had some problems to get into the topic but I guess that will improve with some research.		1	6	2/3/4/	4
+swp	2	15	2	Uns fehlten Informationen um vernünftig zu planen.	We lacked information to plan reasonably.		1	2	2	2
+swp	2	1	3	angst die ganze zeit dumme und selbstverständliche fragen zu stellen, sodass keiner mit mir arbeiten will	afraid to ask stupid and obvious questions all the time so no one wants to work with me		1	1	3	2
+swp	2	2	3	Sehr positiv überrascht über den Spass den das Projekt macht und die Leute mit denen ich zusammenarbeite	Very positively surprised about the fun of the project and the people I work with		1	5	1	1
+swp	2	4	3	Ich finde das Thema sehr spannend und freue mich auf die Arbeit auch wenn es häufig sehr schwirieg ist	I find the topic very exciting and look forward to the work even if it is often very difficult.		1	6	2022-02-01 00:00:00	1
+swp	2	5	3	Motivation hat sich etwas verbessert, nach Gespräch mit Supervisor, einiges ist klarer geworden.	Motivation has improved a bit, after talking with supervisor, some things have become clearer.		1	4	2	2
+swp	2	5	3	Interesse ist weiterhin da!	Interest is still there!		1	4	1	1
+swp	2	6	3	Ich habe bei Softwareprojekten meistens kein Problem mit dem Code.	I usually have no problem with the code in software projects.		1	4	2/0	0
+swp	2	6	3	Ich habe nur überhaupt keine Lust, irgendwelche Pfade umzuändern und Umgebungen einzurichten.	I just have no desire at all to change any paths and set up environments.		1	1	1	1
+swp	2	6	3	Wenn das steht, will ich das erstmal für lange Zeit nicht mehr machen müssen.	Once that's in place, I don't want to have to do that for a long time.		1	2	2022-05-01 00:00:00	5
+swp	2	6	3	Ich sollte es trotzdem schnell machen.	I should still do it quickly though.		1	3	0/2/5/	5
+swp	2	7	3	Ich bin wirklich begeistert, an diesem Projekt zu arbeiten und in die Forschungsarbeit und ein relevantes KI-Projekt involviert zu sein, ich möchte mehr über das Thema lernen.	I'm really excited to work on this project and be involved in research and a relevant AI project, I want to learn more about the subject.		1	5	2022-02-01 00:00:00	2
+swp	2	7	3	Ich kann es kaum erwarten, das Endprodukt fertig zu haben.	I can't wait to have the final product ready.		1	4	2022-02-01 00:00:00	2
+swp	2	9	3	Es wäre cool, wenn man mehr über das Projekt kommunizieren könnte.	It would be cool to communicate more about the project.		1	2	2	2
+swp	2	10	3	Holpriger Start und ich hoffe das wird besser.	Bumpy start and I hope this gets better.		1	6	2022-02-01 00:00:00	1
+swp	2	11	3	Zurzeit neutral	Currently neutral		0	3	0	0
+swp	2	12	3	Es war eine anstrengende Zeit in den letzten paar Wochen.	It's been a busy time the last couple of weeks.		1	3	2022-02-01 00:00:00	1
+swp	2	12	3	Ich hoffe, dass das SWP nicht wieder ein großer Stressfaktor in den nächsten Wochen werden wird.	I hope the SWP doesn't become a big stressor again in the next few weeks.		1	6	2022-04-02 00:00:00	4
+swp	2	13	3	Ich freue mich auf die Projektarbeit später	I am looking forward to the project work later		1	4	2022-05-01 00:00:00	5
+swp	2	14	3	Bin Motiviert einiges dazu zu lernen und praktische Erfahrungen in dem Themengebiet zu sammeln	I am motivated to learn a lot and to gain practical experience in the subject area.		1	4	2022-02-01 00:00:00	2
+swp	2	0	0	WIr haben unser Environment geklärt und einige mögliche Vorgehensweisen besprochen.	We clarified our environment and discussed some possible approaches.		0	3	0	0
+swp	2	1	0	We worked on setting up the remote environment and connecting our local notebooks to run on the remote clusters, and we finally managed to run our notebooks remotely on the servers and we also learned how to setup the notebooks to run without internet connection	We worked on setting up the remote environment and connecting our local notebooks to run on the remote clusters, and we finally managed to run our notebooks remotely on the servers and we also learned how to setup the notebooks to run without internet connection.		0	3	0	0
+swp	2	2	0	Es war eine sehr gute Erfahrung.	It was a very good experience.		1	5	2022-02-01 00:00:00	1
+swp	2	2	0	Unser Superviser ist sehr engagiert und involviert alle Team-Mitglieder.	Our supervisor is very dedicated and involved all team members.		1	4	2	2
+swp	2	2	0	"Wir haben eine relativ kleine Gruppe und die Aufgaben sind relativ große Brocken, sodass jeder quasi bei allen mitmacht bzw. zumindest in allen ""Brocken"" auf dem neusten Stand ist."	We have a relatively small group and the tasks are relatively large chunks, so everyone is pretty much up to speed on all of them.		1	3	0/2	0
+swp	2	2	0	Die Aufgaben ergeben sich meißt von allein im Bezug auf unser Ziel, oder werden durch Fragen von Professor definiert und sind alle in der Regel interessant und lösbar.	The tasks usually arise by themselves in relation to our goal, or are defined by questions from Professor and are all usually interesting and solvable.		1	4	0/2	0
+swp	2	3	0	Ich habe einiges gelesen, GitHub, Labelbox aufgesetzt.	I've done some reading, GitHub, set up Labelbox.		0	3	0	0
+swp	2	3	0	Ein Teammitglied hat Colab aufgesetzt, sonst habe ich nicht viel mitbekommen von diesen.	One team member set up Colab, otherwise I didn't notice much of these.		0	3	0	0
+swp	2	3	0	Die Entscheidungen wurden bereits vorher gefällt, zusammen (oder eher durch) den Supervisor oder waren einfach offensichtlich/leicht.	Decisions were made before, together (or more likely by) the supervisor or were just obvious/easy.		1	3	0	0
+swp	2	4	0	Wir haben viele Entscheidungen unter den 3 Polizeigruppen getroffen.	We made a lot of decisions among the 3 police groups.		0	3	0	0
+swp	2	4	0	Das war sehr viel Aufwand, gerade weil auch die Polizei lange braucht um Fragen von uns beantworten zu können.	This was a lot of effort, especially because the police also takes a long time to answer questions from us.		1	2	2022-01-03 00:00:00	1
+swp	2	4	0	Wir sind trotzdem gut vorangekommen und haben in mehreren Teamsitzungen viele Entscheidungen zusammen getroffen.	Nevertheless, we made good progress and made many decisions together in several team meetings.		1	4	2	2
+swp	2	5	0	Es gab sehr motivierte Teammitglieder, ein paar weniger motivierte.	There were very motivated team members and a few less motivated ones.		1	6	2	2
+swp	2	5	0	Wir haben miteinander gesprochen und Aufgaben verteilt.	We talked to each other and distributed tasks.		0	3	0	0
+swp	2	5	0	Das Gespräch war gut.	The conversation was good.		1	4	2022-01-02 00:00:00	1
+swp	2	5	0	Die Bearbeitung der Trainingsdaten hat Spaß gemacht, wir haben ein paar Sacheng elabelt und konnten schnell in die Erkundung der zu verwendenden Technologien einsteigen.	The processing of the training data was fun, we elablered a few things and were able to quickly get into exploring the technologies to be used.		1	4	2	2
+swp	2	5	0	Wir haben uns doch entschieden, mehr auszutesten, was ich gut fand.	We did decide to do more testing, which I thought was good.		1	4	1	1
+swp	2	5	0	Single track Ansätze haben oft höhere failure-chancen.	Single track approaches often have higher chances of failure.		0	3	2022-03-02 00:00:00	3
+swp	2	6	0	Ich habe mit meiner Gruppe, der externen Interessengruppe, sowie mit den anderen Gruppen meines Projekts zusammengearbeitet.	I worked with my group, the external stakeholder group, as well as with the other groups in my project.		0	3	0	0
+swp	2	6	0	Die Kommunikation lief ganz gut und wir konnten in angemessener Zeit Ergebnisse produzieren.	Communication went quite well and we were able to produce results in a reasonable amount of time.		1	4	0/1	1
+swp	2	6	0	Im Vordergrund stand dabei die Entscheidung über die Aufgabenaufteilung auf die Gruppen, sowie die Frage nach den Daten, die wir bekommen.	The focus was on deciding how to divide tasks among the groups, as well as what data we would get.		0	3	0	0
+swp	2	7	0	Unsere Präsentation ist deutlich besser geworden.	Our presentation improved significantly.		1	5	2	2
+swp	2	7	0	Wir haben uns in unserer Kleingruppe und in der Gesamtgruppe getroffen.	We met in our small group and in the whole group.		0	3	0	0
+swp	2	7	0	Wir haben eine große Entscheidung getroffen, wie wir an unser Projekt ran gehen und ich denke es war die richtige.	We made a great decision on how to approach our project and I think it was the right one.		1	4	2	2
+swp	2	8	0	Das ganze Team war dabei.	The whole team was there.		0	3	0	0
+swp	2	8	0	Wir haben die Env. zusammen besprochen und ich habe die Präsi für diese Woche vorbereitet.	We discussed the Env. together and I prepared the Präsi for this week.		0	3	0	0
+swp	2	8	0	Ich habe mich freiwillig gemeldet weil ich lernen möchte bessere Folien zu erstellen und ich möchte besser im präsentieren werden.	I volunteered because I want to learn to make better slides and I want to get better at presenting.		1	3	0/2/3/	0
+swp	2	9	0	Gemeinsam mit den Teammitgliedern haben wir die Umgebung für das Projekt eingerichtet, weil wir sie präsentieren müssen.	Together with the team members we set up the environment for the project because we have to present it.		0	3	0	0
+swp	2	10	0	Die gelösten Aufgaben umfassen die Datensatzsuche und das Verstehen.	The tasks solved include record search and understanding.		0	3	0	0
+swp	2	10	0	Auch die Definition der Umgebung war etwas, das wir definieren mussten.	Defining the environment was also something we had to define.		0	3	0	0
+swp	2	11	0	Wir haben die beiden Papers gelesen und relevante Information über Datasets gesammelt.	We read the two papers and collected relevant information about datasets.		0	3	0	0
+swp	2	11	0	Dann haben wir die Recherche der Datasets zwischen uns gesplittet und jeder hat den zugewissenen Dataset analysiert.	Then we split the dataset research between us and everyone analyzed the dataset they knew.		0	3	0	0
+swp	2	12	0	Wir haben uns Nachmittag bzw. Abends getroffen und sind über die Meilensteine gegangen.	We met in the afternoon or evening and went over the milestones.		0	3	0	0
+swp	2	12	0	Auch haben wir die Accounts angelegt und uns eingelesen.	We also created the accounts and read in.		0	3	0	0
+swp	2	12	0	Die Kommunikation kam manchmal schleppend voran und das testen der Daten war noch holprig.	Communication was sometimes slow and testing the data was still bumpy.		1	2	2	2
+swp	2	13	0	Ich habe alleine versucht, die Umgebung für unser Projekt einzurichten.	I tried on my own to set up the environment for our project.		0	3	0	0
+swp	2	13	0	Dabei bin ich auf viele Errors gestoßen und versuche jetzt letztendlich ein anderes Betriebssystem über eine Virtualbox zu verwenden, um die Fehler zu umgehen.	In the process, I encountered many errors and am now ultimately trying to use a different operating system via a virtualbox to work around the bugs.		1	2	0/2	0
+swp	2	13	0	Bei Problemen habe ich über unseren Teamchat aber viel Hilfe bekommen und fühle mich deshalb gut unterstützt und nicht alleine gelassen.	However, when I encountered problems, I received a lot of help via our team chat and therefore feel well supported and not left alone.		1	4	3	2
+swp	2	14	0	Unseres Team hat gemeinsam an das Problem gearbeitet, wir haben uns per Discord kommuniziert und an den optimalen Lösungen gedacht.	Our team worked together on the problem, we communicated via Discord and thought of the best solutions.		1	3	0	0
+swp	2	0	1	Wir müssen uns noch belesen.	We still need to read up.		1	3	2022-05-04 00:00:00	4
+swp	2	1	1	I learned how to use port-forwarding and tmux libraries, and I learned more about the different datasets that are used in NLP.	I learned how to use port-forwarding and tmux libraries, and I learned more about the different datasets that are used in NLP.		0	3	0/2	2
+swp	2	1	1	Seeing how things works closely gave me more confidence, I would like to learn more and work on myself more in that regard and better understand how big models can be trained and used in production, when training locally is no longer possible.	Seeing how things works closely gave me more confidence, I would like to learn more and work on myself more in that regard and better understand how big models can be trained and used in production, when training locally is no longer possible.		1	4	5	2
+swp	2	2	1	Wir haben quasi gelernt uns in einem echten Feld der ML unterstützten Verhaltensforschung zu engagieren und arbeiten mit echten Technologien mit einem klaren Ziel welches letztendlich auch zur Umsetzung in eine aktiv genutze Software führen soll.	We have learned to engage in a real field of ML supported behavioral research and work with real technologies with a clear goal which should eventually lead to the implementation of actively used software.		1	3	2022-03-02 00:00:00	3
+swp	2	2	1	Wir könnten vielleicht schneller arbeiten, liegen  aber im Gesamtbild gut in der Zeit.	We could perhaps work faster, but in the big picture we are well on time.		1	6	2022-03-02 00:00:00	3
+swp	2	3	1	Ich habe etwas über das Thema gelernt und über verschiedene Programme/	I have learned something about the topic and about different programs/		1	3	0	0
+swp	2	3	1	Tools.	tools.		0	3	0	0
+swp	2	3	1	Viel mehr ist diese Woche eigentlich nicht passiert.	Not much else really happened this week.		0	3	0	0
+swp	2	4	1	Da wir immer noch nicht anfangen konnten das Projekt richtig zu starten haben wir wieder vor allem organisatorische Skills gelernt.	Since we still couldn't start the project properly we learned again mainly organizational skills.		0	3	3/0	0
+swp	2	4	1	Ein bisschen Hintergrundrecherche hat mir aber auch neues Wissen vermittelt welches mir auch in der Praxis helfen kann.	A little bit of background research gave me new knowledge which can also help me in practice.		1	3	2022-03-02 00:00:00	2
+swp	2	5	1	Es sind eher mehr Fragen aufgekommen.	More questions came up.		0	3	0	0
+swp	2	5	1	Was aber auch gut ist, weil wir durch die Fragen eher eine Richtung kriegen.	But that's also good, because the questions give us more of a direction.		1	4	2022-03-01 00:00:00	1
+swp	2	6	1	Bis hier hin habe ich gelernt, dass die deutsche Bürokratie einem viele Steine in den Weg legen kann und Dinge nicht wirklich einfacher macht.	Up to this point I have learned that the German bureaucracy can put many obstacles in your way and does not really make things easier.		1	2	2	2
+swp	2	6	1	Auf jeden Fall ist es besser proaktiv zu werden und nicht nur auf die Arbeit anderer zu hoffen.	In any case, it is better to become proactive and not just hope for the work of others.		1	3	2	2
+swp	2	7	1	Ich habe gelernt, das Google Doc noch aufmerksamer zu lesen und auf alle Details zu achten, die Professor hören möchte.	I have learned to read the Google Doc even more carefully and pay attention to all the details Professor wants to hear.		1	3	0/2	2
+swp	2	7	1	Das ist uns gut gelungen und werden wir denke ich weiterführen können.	This has worked well for us and I think we will be able to continue.		1	4	2022-01-02 00:00:00	1
+swp	2	7	1	Es stehen viele Besprechungen in unserer Gruppe an.	We have a lot of meetings coming up in our group.		0	3	0	0
+swp	2	8	1	Viel dazu gelernt habe ich diese Woche nicht.	I didn't learn much this week.		0	2	0	0
+swp	2	8	1	Aber das liegt an dem Projekt und dem Flaschenhals den wir leider haben.	But that's because of the project and the bottleneck we have unfortunately.		1	2	3	3
+swp	2	9	1	Ich habe etwas über die Formen der Bienenzellen gelernt.	I did learn something about the shapes of the bee cells.		0	3	0	0
+swp	2	9	1	Wir hätten aktiver in Teambesprechungen sein sollen.	We should have been more active in team meetings.		1	2	2022-04-02 00:00:00	4
+swp	2	10	1	Derzeit habe ich gelernt, wie ich Informationen über den Datensatz finde und wie ich ihn meiner Gruppe erklären kann	Currently I have learned how to find information about the dataset and how to explain it to my group		1	3	0	0
+swp	2	11	1	Ich habe gelernt wie man die Forschungs-Arbeiten analysiert.	I learned how to analyze the research work.		1	3	0	0
+swp	2	11	1	Bestimmt werde ich diese Kenntnisse weiter verwenden.	Definitely, I will continue to use this knowledge.		1	4	5	5
+swp	2	12	1	Ich fühle mich ein wenig besser über das Thema informiert und glaube es kann jetzt richtig losgehen.	I feel a little better informed about the subject and I think it can really start now.		1	4	2	2
+swp	2	12	1	Die anfängliche Verwirrung verschwindet ein wenig und es entsteht mehr Diskussion in die ich mich einbringen kann.	The initial confusion is disappearing a bit and more discussion is emerging that I can get involved in.		1	4	2	2
+swp	2	13	1	Ich habe endlich mein dürftiges Wissen über das Arbeiten mit der Commandline in Windows und Linux aufgefrischt und fühle mich durch die vielen Lösungsansätze, die ich ausprobiert habe, nun sehr flüssig in der Umgebung.	I have finally refreshed my meager knowledge of working with the commandline in Windows and Linux and now feel very fluent in the environment due to the many approaches I have tried.		1	4	2022-03-02 00:00:00	2
+swp	2	14	1	Viel neues habe ich nicht gelernt, aber selbstbewusster geworden - schon.	I haven't learned much new, but I have more confidence.		1	6	2	2
+swp	2	14	1	Dadurch, dass wir mehr Info zu der Aufgabe bekommen haben und schon etwas konkretes uns nachdenken konnten.	Because we got more information about the task and could already think about something concrete.		1	3	0/3	0
+swp	2	14	1	Zur Verbesserung habe ich noch nichts vor, weil das immer noch Anfang von dem Projekt ist.	I don't have any plans to improve it yet, because it's still the beginning of the project.		1	3	0	0
+swp	2	14	1	Später könnte ich die Frage beantworten.	Later I could answer the question.		0	3	0	0
+swp	2	0	2	Wir sich noch zeigen.	It remains to be seen.		0	3	0	0
+swp	2	1	2	Meine vorherigen Annahmen über die Schwierigkeit der Aufgabe waren völlig falsch.	My previous assumptions about the difficulty of the task were completely wrong.		1	6	2	2
+swp	2	2	2	Alles gut soweit.	Everything is fine so far.		0	4	2022-01-02 00:00:00	1
+swp	2	3	2	Die Kommunikation ist weiterhin etwas problematisch.	Communication is still a bit problematic.		1	2	2022-01-02 00:00:00	1
+swp	2	3	2	Von den anderen scheint nicht so viel zu kommen...	Not so much seems to come from the others....		1	2	2/0	0
+swp	2	3	2	Ich hoffe das ändert sich zum besseren...	I hope this changes for the better....		1	6	2022-05-04 00:00:00	4
+swp	2	4	2	Die langsame Projektplanung vverschiebt unsere Milestones langsam immer weiter nach hinten.	The slow project planning is slowly pushing our milestones further and further back.		1	2	0/3	3
+swp	2	4	2	Das ist aktuell unser größtes Problem, ist aber hoffentlich in absehbarer Zeit lösbar.	This is currently our biggest problem, but hopefully it can be solved in the foreseeable future.		1	6	3/4/5/	4
+swp	2	5	2	Eine Herausforderung ist, dass wir noch nicht Wissen in welche Richtung wir gehen müssen.	One challenge is that we don't yet know in which direction we need to go.		1	2	2	2
+swp	2	5	2	Das ist insofern schlecht, weil wir noch nicht sicher wissen.	That's bad in that we don't know for sure yet.		1	2	2022-01-02 00:00:00	1
+swp	2	5	2	Aber es muss nicht sein, dass etwas schlechtes bei der Beseitigung der Ungewissheit passiert.	But it doesn't have to be that something bad happens in eliminating the uncertainty.		1	3	0/3	0
+swp	2	5	2	Also... wait and see.	So...wait and see.		0	3	0	0
+swp	2	6	2	Die größte Herausforderung ist die Kommunikation unter den Gruppen und die Absprache mit den externen Interessenvertretern.	The biggest challenge is communication among the groups and coordination with external stakeholders.		1	2	2	2
+swp	2	6	2	Da sorgt dafür, dass man generell mehr Zeit für Absprachen und Details einplanen muss.	That's where it ensures that you generally have to spend more time on agreements and details.		1	3	0/3	0
+swp	2	7	2	Kommunikation mit allen Beteiligten ist langwierig.	Communication with all stakeholders is lengthy.		1	2	2022-02-01 00:00:00	1
+swp	2	7	2	Wir brauchen dringend Infos!	We need info urgently!		0	1	0/2	0
+swp	2	7	2	Ich habe Sorge den Zeitplan nicht einhalten zu können und später in Stress zu geraten.	I'm worried about not being able to meet the schedule and getting stressed out later.		1	2	2022-02-01 00:00:00	2
+swp	2	8	2	Bei der Aufgabenlösung war am schwierigsten unsere konkrete Aufgabe herauszufinden.	When solving the task, the hardest part was figuring out our specific task.		1	2	2	2
+swp	2	8	2	Ich finde die Formulierung nicht konkret genug.	I think the wording is not concrete enough.		1	2	2	2
+swp	2	8	2	Gerade für Präsentationen und für inhaltliche wäre eine Checklist mit den Inhalten über die wir berichten sollen sehr holfreich.	Especially for presentations and for content, a checklist of what we are supposed to report on would be very holfish.		1	3	2022-01-04 00:00:00	1
+swp	2	9	2	Wir konnten uns nicht entscheiden, wie wir die Daten kennzeichnen.	We couldn't decide how to label the data.		1	3	2/0	0
+swp	2	9	2	Ich denke, das ist uns allen ein bisschen unklar.	I think that's a little unclear to all of us.		1	2	0/2/3/	3
+swp	2	10	2	Es wurde noch kein Problem gefunden, vielleicht könnte die Gruppenkoordination verbessert werden.	No problem found yet, maybe group coordination could be improved.		1	6	2	2
+swp	2	11	2	Schwierigkeit hatte ich beim Verstehen der Datasets , wie diese erstellt wurden und wie verwendet.	Difficulty I had in understanding the datasets , how they were created and how used.		1	2	2	2
+swp	2	12	2	Die zeitlichen Abgrenzungen zwischen den Aufgaben ist noch sehr verschwommen und es wird das bearbeitet was bis zum nächsten Meilenstein gebraucht wird und nicht so viel mehr.	The time delineations between tasks is still very blurry and what is needed until the next milestone is worked on and not so much more.		1	2	2	2
+swp	2	12	2	Es ist schwierig sich auf mehrere Probleme zu konzentrieren wenn man noch bei anderen in der Diskussion steckt und sich uneinig ist.	It is difficult to focus on multiple problems when you are still in discussion and disagreement with others.		1	2	2	2
+swp	2	13	2	Die größten Schwierigkeiten hatte ich(analog zu anderen Teammitgliedern) mit der Installation der Umgebung, die wir für unsere Aufgabe benötigen.	The biggest difficulty I had (analogous to other team members) was with the installation of the environment we needed for our task.		1	2	2	2
+swp	2	13	2	Wenn bei der Installation irgendetwas schief geht und auch Internetrecherchen auftun, was eigentlich schief gelaufen ist, kommt sehr schnell Frustration auf.	If something goes wrong during the installation, and even internet research reveals what actually went wrong, frustration sets in very quickly.		1	2	2022-01-03 00:00:00	1
+swp	2	14	2	Von den Schwierigkeiten war eher die Unklarheit von der Aufgabenstellung am Anfang, jetzt ist alles mehr oder weniger klar.	From the difficulties was rather the lack of clarity of the task at the beginning, now everything is more or less clear.		1	6	2	2
+swp	2	0	3	Da wir am noch am Anfang stehen müssen wir abwarten was passiert in den nächsten Tagen.	Since we are still at the beginning we have to wait and see what happens in the next few days.		0	3	2022-03-02 00:00:00	2
+swp	2	1	3	Meine Wahrnehmung des Themas selbst hat sich nicht verändert	My perception of the subject itself has not changed.		1	3	0	0
+swp	2	2	3	Was	What		0	3	0	0
+swp	2	3	3	Sie hat sich kaum geändert...	It has hardly changed...		0	3	0	0
+swp	2	4	3	Eigentlich gar nicht	Actually not at all		0	3	0	0
+swp	2	5	3	Mehr Optionen hat meine Vorstellungen zum Verlauf des SWP geändert.	More options has changed my perceptions of how the SWP will go.		1	3	0/4	0
+swp	2	6	3	Gar nicht.	Not at all.		0	3	0	0
+swp	2	6	3	Wir beginnen gerade erst mit der Einarbeitung in unser spezielles Thema.	We are just beginning to learn about our particular topic.		0	3	0	0
+swp	2	7	3	Ich verstehe jetzt selber besser unsere Aufgabe.	I now have a better understanding of our task myself.		1	4	2	2
+swp	2	7	3	Wie viel Zeit wir für Organisation und Kommunikation brauchen kann ich besser einschätzen.	I can better estimate how much time we need for organization and communication.		1	4	2	2
+swp	2	9	3	Meine Meinung hat sich nicht viel geändert.	My opinion has not changed much.		0	3	0	0
+swp	2	10	3	No change at the moment	No change at the moment		0	3	0	0
+swp	2	11	3	Meine Wahrnehmung hat sich nur erhöht, weil die sorgfältige Analyse des Papers viele Fragen verursacht hat auf die ich jetzt die Antworte suche.	My perception has increased only because the careful analysis of the paper has caused many questions to which I now seek the answers.		1	4	2022-03-02 00:00:00	2
+swp	2	12	3	Das Thema ist klarer geworden und die Ansätze und Richtungen sind deutlicher als vorher das liegt aber auch eher zum Großteil daran das man jetzt eingelesener ist also vorher.	The topic has become clearer and the approaches and directions are clearer than before, but this is largely due to the fact that I am now more familiar with it than before.		1	4	3	3
+swp	2	13	3	Ich kann nun auch durch die Erfolge und Erfahrungsberichte meiner Teamkollegen besser einschätzen, was ich im Projekt zu erwarten habe und welche Aufgaben auf mich zukommen.	I can now also better assess what I have to expect in the project and what tasks await me through the successes and experience reports of my teammates.		1	4	2	2
+swp	2	14	3	Jetzt haben wir einbisschen mehr Ideen dazu bekommen, wie wir die gestellte uns Aufgabe lösen können.	Now we have a bit more ideas about how we can solve the task.		1	4	2	0
+swp	2	0	4	Siehe oben.	See above.		0	3	0	0
+swp	2	1	4	Ich habe jetzt mehr Vertrauen in meine Fähigkeiten und Fertigkeiten, die Aufgabe zu erfüllen	I now have more confidence in my abilities and skills to complete the task. 		1	4	2	2
+swp	2	2	4	Man lernt halt immer dazu und das ist auch hier der Fall.	You always learn something new, and that is also the case here.		1	3	2	2
+swp	2	2	4	Wenn es nur um reproduktion von bereits Angelerntem ginge, würde das Studieren wenig Sinn machen.	If it were only a matter of reproducing what I had already learned, studying would make little sense.		1	3	3	3
+swp	2	3	4	Die Wahrnehmung gegenüber meiner Kompetenzen hat sich eigentlich gar nicht veändert	The perception of my competencies has not really changed at all.		0	3	0/2	2
+swp	2	4	4	Auch hier hat sich nicht viel verändert	Again, not much has changed		0	3	0	0
+swp	2	5	4	Die Grundlagen sind die gleichen, die Herausforderungen sind ähnlich.	The basics are the same, the challenges are similar.		0	3	0	0
+swp	2	6	4	Bisher haben wir noch nicht wirklich an speziell unserem Projekt arbeiten können.	So far, we haven't really been able to work on our project specifically.		0	3	0	0
+swp	2	6	4	Dementsprechend konnte ich noch keine Kompetenzen erarbeiten.	Accordingly, I have not yet been able to develop any competencies.		0	3	0	0
+swp	2	7	4	Kommunikation liegt mir gut und ich bin stolz den Überblick über die vielen ToDo's behalten zu haben.	Communication suits me well and I am proud to have kept track of the many to-dos.		1	4	2022-01-02 00:00:00	1
+swp	2	8	4	Ich weiß was ich besser machen kann für die Präsentation	I know what I can do better for the presentation.		1	3	0/4	0
+swp	2	9	4	Ich denke, es ist eine kleine Herausforderung für mich, Git zu benutzen, weil ich nicht daran gewöhnt bin.	I think it's a bit of a challenge for me to use Git because I'm not used to it.		1	2	2022-03-02 00:00:00	2
+swp	2	10	4	Momentan keine Änderung	No change at the moment		0	3	0	0
+swp	2	11	4	Die Aufgabe hat gezeigt, dass ich besser lernen muss wie man eine Wissenschaftlicher Arbeit analysiert.	The assignment showed that I need to learn better how to analyze a scientific paper.		1	6	2	2
+swp	2	12	4	Es hat sich diese Woche kaum verändert da meine eingeschätzte Kompetenz weder richtig gefordert noch schleifen gelassen wurde.	There has been little change this week as my assessed competence has not been really challenged nor dragged.		1	3	2022-03-02 00:00:00	2
+swp	2	12	4	Es wird wahrscheinlich in der Zukunft bei den komplexeren Teilen dieses Projektes zu mehr Rückschlägen kommen.	There will probably be more setbacks in the future with the more complex parts of this project.		1	2	3	2022-04-03 00:00:00
+swp	2	13	4	Ich habe deutlich mehr Sicherheit im Umgang mit Commandlines erhalten und werde auch in Zukunft weniger vor Aufgaben zurückschrecken, die die Nutzung dieser voraussetzen.	I have become much more confident in using Commandlines and will be less likely to shy away from tasks that require the use of them in the future.		1	4	2	2
+swp	2	0	5	Ebenfalls ist hier noch auf die nächsten Tage abzuwarten	Likewise, here is still to wait for the next few days		0	3	0/5	5
+swp	2	1	5	Ich fühlte mich wirklich gut, fast so, als hätte ich etwas erobert.	I felt really good, almost like I had conquered something.		1	5	2022-01-02 00:00:00	1
+swp	2	1	5	Ich habe das Trainieren von Modellen aus der Ferne immer als eine übermäßig komplizierte Aufgabe empfunden, aber jetzt scheint es viel einfacher zu sein, und das gibt mir mehr Selbstvertrauen.	I've always found training models remotely to be an overly complicated task, but now it seems much easier, and that gives me more confidence.		1	5	2022-04-02 00:00:00	2
+swp	2	2	5	Alles sehr positiv verlaufen.	Everything has gone very positively.		1	5	2022-02-01 00:00:00	1
+swp	2	2	5	Bin glücklich	Am happy		1	4	1	1
+swp	2	3	5	Ich war hauptsächlich etwas genervt, aber auch sehr interessiert.	I was mainly a bit annoyed, but also very interested.		1	6	1	1
+swp	2	3	5	Interessiert, weil das Thema einfach spannend ist.	Interested, because the subject is simply exciting.		1	4	2022-01-03 00:00:00	1
+swp	2	3	5	Genervt, weil von den Teammitgliedern doch sehr wenig kommt.	Annoyed because very little comes from the team members.		1	1	2022-01-03 00:00:00	1
+swp	2	4	5	Frustration wegen des langsamen Vorankommens	Frustrated because of the slow progress.		1	2	2022-01-03 00:00:00	1
+swp	2	5	5	Ich habe mich enthusiastisch gefühlt, einzusteigen.	I felt enthusiastic to join.		1	5	1	1
+swp	2	5	5	Neugierig gegenüber dem was passiert und manchmal ein Stück ermüdet, wenn es nicht auf Anhieb funktioniert hat.	Curious about what's happening and sometimes a bit fatigued when things didn't work out right away.		1	6	1	1
+swp	2	6	5	Bisher eher gestresst und etwas im Dunklen tappend.	So far rather stressed and a bit in the dark.		1	2	1	1
+swp	2	6	5	Das klärt sich hoffentlich mit der Zeit und wenn wir uns mehr mit dem Thema auseinandersetzen.	Hopefully that will clear up as time goes on and we get more into it.		1	6	1/4/5/	4
+swp	2	7	5	Ich bin etwas frustriert, dass unser Projektfortschritt durch andere gehemmt wird.	I'm a little frustrated that our project progress is being inhibited by others.		1	2	1	1
+swp	2	7	5	Hoffentlich bessert sich das ganz bald und bleibt positiv.	Hopefully that will improve very soon and stay positive.		1	6	1	1
+swp	2	8	5	Verzweifelt weil ich nicht genau wusste wie ich die Präsentation strukturieren sollte.	Desperate because I didn't know exactly how to structure the presentation.		1	1	2022-01-03 00:00:00	1
+swp	2	8	5	Gerade in Präsentationen über Softwareprojekte ist das für mich etwas ganz neues.	Especially in presentations about software projects this is something completely new for me.		1	3	2/0	0
+swp	2	8	5	Ansonsten Meetings etc. machen bisher viel Spaß.	Otherwise meetings etc. are a lot of fun so far.		1	5	2022-01-02 00:00:00	1
+swp	2	8	5	Ein wenig Frust ist mit dabei weil der Flaschenhals über unser Projekt etwas nervig ist und wir außer abwarten nicht viel machen können.	A little frustration is involved because the bottleneck about our project is a bit annoying and we can't do much except wait and see.		1	2	2022-01-03 00:00:00	1
+swp	2	9	5	Nachdem ich ein kleines Problem gelöst hatte, fühlte ich mich gut.	After solving a small problem, I felt good.		1	4	1	1
+swp	2	10	5	Ich war mit den erzielten Ergebnissen zufrieden	I was satisfied with the results achieved		1	4	1	1
+swp	2	11	5	Ich habe mich während der Aufgabe konzentriert gefühlt und nach der Lösung froh und motiviert tiefer dieses Thema zu analysieren.	I felt focused during the task and after solving it I felt happy and motivated to analyze this issue deeper.		1	4	1	1
+swp	2	12	5	"Ich habe mich weiterhin unsicher gefühlt ob es denn auch die ""richtigen"" Lösungen waren oder ob nicht noch viel fehlte."	"I still felt unsure if they were the ""right"" solutions or if there was still a lot missing."		1	6	1	1
+swp	2	12	5	Die Antworten waren nicht immer klar und durch ein paar Schwierigkeiten hat sich das verdeutlicht.	The answers were not always clear and a few difficulties made that clear.		1	2	2022-01-02 00:00:00	1
+swp	2	13	5	Ich bin, trotzdem die Aufgabe noch nicht ganz abgeschlossen ist und trotz der ganzen Schwierigkeiten stolz auf meinen Fortschritt und zuversichtlich, was den Erfolg die nächsten Wochen über angeht.	I am proud of my progress and confident about the success of the next weeks, despite the difficulties and the fact that the task is not yet finished.		1	6	2022-03-02 00:00:00	3
+swp	2	14	5	Schwer zu beantworten, weil wir noch keine richtige Arbeit gemacht haben.	It's hard to answer because we haven't done any real work yet.		0	3	0/3	0
+swp	3	0	0	Es war postiv, wir haben alle Probleme gut gemeistert und intern war alles glatt	It was positive, we managed all the problems well and internally everything was smooth		1	4	1	1
+swp	3	1	0	Das ganze Team trifft sich jede Woche online und löst die Aufgaben zusammen.	The whole team meets online every week and solves the tasks together.		0	3	0	0
+swp	3	2	0	Wir (dreiergruppe) haben unsere Aufgabe in drei Teilaufgaben geteilt und jeder hat sich einer angenommen.	We (group of three) divided our task into three subtasks and everyone took one.		0	3	0	0
+swp	3	2	0	Wenn einer fertig wurde, haben wir zusammen an einer anderen weitergearbeitet.	When one finished, we continued working together on another.		0	3	0	0
+swp	3	3	0	Meine Gruppe und ich konnten die Aufgaben gut lösen, auch wenn es mal zwischenzeitig kniffelig wurde	My group and I were able to solve the tasks well, even if it got tricky in the meantime.		1	4	0/2	2
+swp	3	4	0	Ich habe teils alleine gearbeitet und teils mit meinem Team.	I worked partly on my own and partly with my team.		0	3	0	0
+swp	3	4	0	Die Teamarbeit war weniger als in den ersten Wochen, was jedoch kein Problem ist.	The teamwork was less than in the first weeks, but that is not a problem.		1	3	2	2
+swp	3	5	0	Integration von Modulen in das Biotracker system stellte sich für ein Modul als Herausforderung dar.	Integration of modules into the Biotracker system proved to be a challenge for one module.		1	2	2	2
+swp	3	5	0	Ausführung von merheren Bibliotheken führte zu konflikten	Execution of several libraries led to conflicts, which we are still		0	3	0	0
+swp	3	5	0	woran wir immernoch arbeiten.	which we are still working on.		0	3	0	0
+swp	3	5	0	Performance einer Technologie war wesentlich schlechter als erwartet.	Performance of one technology was much worse than expected.		1	1	2022-02-01 00:00:00	2
+swp	3	5	0	Sodass zwei von zwei Technologien zu Herausforderungen wurden, anstatt eine optimale Lösung herauszukristallisieren.	So that two of two technologies became challenges instead of crystallizing an optimal solution.		1	2	2	2
+swp	3	6	0	Arbeiteten am Code des Papers und lernten, wie man den Code modifiziert und eigene Experimente mit ihrem Aufbau durchführt	Worked on the code of the paper and learned how to modify the code and run our own experiments with their design.		1	3	0	0
+swp	3	7	0	Wir haben uns relativ schnell dafür entschieden unsere Arbeit in gemeinsammer arbeit zu lösen.	We decided relatively quickly to solve our work in a collaborative fashion.		1	3	0	0
+swp	3	7	0	So konnten wir alle entscheidungen schnell treffen und auch Fragen und Probleme schnell lösen.	This way we could make all decisions quickly and also solve questions and problems quickly.		1	4	0/2	0
+swp	3	8	0	In der Woche hab ich meist ein bis zwei Tage für jeweils 2-3h reserviert um die Aufgabe zu bearbeiten und zu lösen.	In the week I usually reserved one or two days for 2-3h each to work on and solve the task.		1	3	0	0
+swp	3	9	0	Zusammen mit meinen beiden anderen Teammitgleidern haben wir uns an einem Tag an ein frustrierendes Problem gesetzt.	Together with my two other team members, we spent one day working on a frustrating problem.		1	2	0	0
+swp	3	9	0	Leider haben wir zu viel auf einzelne Probleme vernarrt.	Unfortunately we got too much infatuated with single problems.		1	2	2	1
+swp	3	9	0	Aber die Diskussionen dabei waren gut.	But the discussions were good.		0	4	2	1
+swp	3	10	0	Es war hautpsächlich mein Team dabei und wir haben alle von Zuhause aus gearbeitet.	It was mainly my team and we all worked from home.		0	3	0	0
+swp	3	10	0	Wir haben uns online (per Audio) getroffen um den aktuellen Stand, Schwierigkeiten und die nächsten Stritte (organisatorisches) zu besprechen.	We met online (via audio) to discuss the current status, difficulties and the next steps (organizational).		0	3	0	0
+swp	3	11	0	Das Vorgehen in einer Gruppe zeigt mehrere Blickwinkel und lässt einen durch die Ideen von anderen schneller voran kommen.	Working in a group shows multiple perspectives and lets you move forward faster through the ideas of others.		1	4	2	2
+swp	3	11	0	Bei gemeinen Fehler kam es, durch mangelnder Expertise, leider noch zum stocken und wir mussten länger an Bugs bei der Code übertragung sitzen als gewollt.	Unfortunately, due to a lack of expertise, we had to deal with some common bugs and had to sit on the code transfer for longer than we wanted to.		1	2	3	3
+swp	3	12	0	Ich habe heute zwar ein paar schöne Vorträge gehört, aber auch dabei gelernt, dass wir vielleicht noch etwas besser die Studenten auf Vorträge vorbereiten müssten.	I heard some nice talks today, but I also learned that we might have to do a bit better in preparing students for talks.		1	6	2022-03-02 00:00:00	3
+swp	3	12	0	Mir fehlt oft eine klarere Strukturierung und eine Vortragsweise, die mich wach hält.	I often find myself lacking clearer structure and a lecture style that keeps me awake.		1	2	2	2
+swp	3	12	0	Kann ich deren Lernprozess besser unterstützen?	Can I better support their learning process?		0	3	3/0	0
+swp	3	12	0	Oder müssen die Studis einfach nur oft üben?	Or do students just need to practice often?		0	3	3/0	0
+swp	3	0	1	Wir haben yolo, wpod, rectification, ocr, image augmentation gelernt, also eine ganze Menge.	We have learned yolo, wpod, rectification, ocr, image augmentation, so quite a lot.		1	3	0	0
+swp	3	0	1	"ich denke, ein wenig Hilfe, vielleicht von Profesor, der sich wöchentlich mit den Teams trifft und uns über einige der Maschinen ""belehrt"", würde dies einfacher machen"	"i think a little help, maybe from profesor who meets weekly with the teams and ""teaches"" us about some of the machines would make this easier"		1	2	2/3/4/	3
+swp	3	1	1	Ich habe neue Algorithmen gelernt und implementiert.	I have learned and implemented new algorithms.		1	3	0	0
+swp	3	1	1	Jetzt haben wir vor, die zu verbessern,	Now we plan to improve those,		1	3	5	5
+swp	3	2	1	Auf jeden Fall haben wir gelernt uns in der kleinen Gruppe zu organisieren und kommunizieren.	Anyway, we learned to organize and communicate in the small group.		1	3	0	2
+swp	3	2	1	Das hat alles super funktioniert soweit.	This has all worked great so far.		0	5	2022-01-02 00:00:00	1
+swp	3	3	1	Mittlerweile besitze ich ein besseres Verständnis über Workflows und Metriken	In the meantime I have a better understanding about workflows and metrics.		1	4	2	2
+swp	3	4	1	Ich habe viel gelernt über das Arbeiten in einer Gruppe.	I learned a lot about working in a group.		1	3	0	0
+swp	3	4	1	Wie man mit GIT Code verwaltet.	How to manage code with GIT.		0	3	2/0	0
+swp	3	4	1	Die Probleme die mit Kommunikation auftreten.	The problems that arise with communication.		1	3	2/0	0
+swp	3	4	1	Ich bin selbstbewusster geworden in Projektarbeit.	I have become more confident in project work.		1	4	2022-01-02 00:00:00	1
+swp	3	5	1	Software zu analysieren.	Analyzing software.		0	3	0	0
+swp	3	5	1	Werde ich auch in der Praxis anwenden, Ja bin selbstbewwusster geworden im Umgang mit großen Softwareprojekten.	Will I also use in practice, Yes have become more confident in dealing with large software projects.		1	4	2022-05-02 00:00:00	2
+swp	3	6	1	Ich habe gelernt, wie man die pytorch lightening library benutzt und das gab mir mehr Sicherheit bei der Manipulation der bestehenden Paper Codebase	I learned how to use the pytorch lightening library and that gave me more confidence in manipulating the existing paper codebase.		1	4	2	2
+swp	3	7	1	Ich habe sehr viel darüber gelernt erst mal tief über ein Problem nachzudenken und zu versuchen es zu lösen.	I learned a lot about thinking deeply about a problem first and trying to solve it.		1	3	0/2	2
+swp	3	7	1	Von der technischen Seite habe ich bis jetzt nicht viel neues gelern aber das wird in den nächsten Wochen noch kommen.	From the technical side, I haven't learned much new so far but that will come in the next weeks.		1	3	0	0
+swp	3	8	1	Ich habe neue Möglichkeiten gesehen wie man bswp. Objekte mittles der OpenCV Libary lokalisiert.	I have seen new ways to localize objects using the OpenCV library.		1	3	0	0
+swp	3	9	1	Wir haben jetzt zum gLück einen Weg, den wir besser sehen können.	We have now luckily a way we can see better.		0	4	2022-01-02 00:00:00	1
+swp	3	9	1	Es ist so ein bisschen Exploration vs Exploitation.	It's a bit of exploration vs exploitation.		0	3	0/3	0
+swp	3	9	1	Exploitation fühlt sich gut an und es fühlt sich nach Fortschritt an, aber nur in der Exploration lernt man wirklich.	Exploitation feels good and it feels like progress, but only in exploration you really learn.		1	4	2	2
+swp	3	9	1	Und wir fangen erst wirklich an aus der Exploration raus zu kommen.	And we're just really starting to get out of exploration.		0	3	0	0
+swp	3	9	1	Ich denke wir hätten mehr Zeit investieren können, aber das sagt man immer	I think we could have invested more time, but that's what they always say		1	2	2022-04-02 00:00:00	4
+swp	3	10	1	Ich habe etwas über Datenbeschaffung (dataset finden, labelling) und über das suchen und finden von zur Aufgabe passenden Literatur (paper) gelernt.	I learned about data sourcing (finding dataset, labelling) and about searching and finding literature that fits the task (paper).		1	3	0	0
+swp	3	11	1	Ich habe gelernt wie ein Machine Learning Model vorgeht und welche Schritte dafür benötigt werden, was man für Trainingsdaten brauch und wie man die Ergebnisse validieren sollen.	I learned how a machine learning model works and which steps are needed, what kind of training data is needed and how to validate the results.		1	3	0	0
+swp	3	11	1	Praxiserfahrung fehlt dazu aber leider noch.	Practical experience is still missing.		0	2	0/2	0
+swp	3	11	1	Dies wird aber in nächster Zeit wahrscheinlich durchgeführt.	But this will probably be done in the near future.		0	3	5	5
+swp	3	12	1	Ich hätte heute etwas besser aufpassen müssen, aber ich habe so wenig geschlafen die letzten Tage, dass ich heute nur 10 min vor dem Meeting nochmal auf die Couch gegangen bin um ein kleines Nickerchen zu machen.	I should have been a bit more careful today, but I slept so little the last few days that I only went to the couch 10 minutes before the meeting to take a little nap.		1	2	2022-04-02 00:00:00	4
+swp	3	12	1	Das hat mich aber super müde gemacht und ich hatte auch keine Zeit mehr eine Mate zu holen.	But that made me super tired and I didn't have time to get a mate either.		1	2	0/2	2
+swp	3	12	1	Ja, vielleicht sollte ich das nächste Mal einfach zwei Minuten früher aufstehen und eine Mate holen.	Yeah, maybe next time I should just get up two minutes earlier and get a mate.		1	2	5	5
+swp	3	12	1	Das mach ich.	I'll do that.		0	3	5/0	5
+swp	3	0	2	-	-		0	3	0	0
+swp	3	0	2	wir bekommen keine Daten von der Polizei - die Antworten der Polizei sind langsam - die Polizei ist nicht präzise in ihrer Sprache	we don't get data from the police - the answers from the police are slow - the police are not precise in their language.		0	2	0/2	0
+swp	3	1	2	Das Fehlen von Daten, was die Motivation verringert hat.	The lack of data, which has reduced motivation.		1	2	2	2
+swp	3	2	2	Schwierig wird die Kommunikation mit externen Interessenvertretern, da diese nicht so flexibel zu erreichen sind und man nur schwer an Informationen kommt.	Communication with external stakeholders becomes difficult, as they are not so flexible to reach and it is hard to get information.		1	2	2022-02-03 00:00:00	2
+swp	3	2	2	Auch geplante Termine wurden nicht eingehalten bzw kurzfristig abgesagt.	Planned deadlines were also not met or cancelled at short notice.		1	2	0/2	0
+swp	3	3	2	Herausfordernd waren in erster Linie technische Hürden, hin und wieder ein Verständnis Problem der Materie	Challenging were primarily technical hurdles, now and then a comprehension problem of the matter.		1	2	2	2
+swp	3	4	2	Es gab Probleme mit den Daten aber ich bin stolz auf unseren kreativen Umgang damit.	There were problems with the data but I am proud of our creative handling of it.		1	6	2022-02-01 00:00:00	1
+swp	3	4	2	Wir haben vorerst eine Alternative gefunden.	We found an alternative for the time being.		0	3	0	0
+swp	3	4	2	Zudem habe ich mich nicht demotivieren lassen.	In addition, I did not let myself get demotivated.		1	4	1	1
+swp	3	5	2	Die Integration von Pythoncode in C++ Programm führte zu konflikten deren Bewältigung länger dauerte als die eigentliche Integration.	The integration of Python code into C++ program led to conflicts which took longer to overcome than the actual integration.		0	2	2	2
+swp	3	6	2	Umgebungskonflikte zwischen der Umgebung des Autors und unserer Umgebung verursachten Probleme bei der Ausführung des Codes, wir nahmen an, dass beide Umgebungen gleich sind, aber es stellte sich heraus, dass dies nicht der Fall war	Environment conflicts between the author's environment and our environment caused problems in the execution of the code, we assumed that both environments were the same, but it turned out that this was not the case		1	2	0/3	3
+swp	3	7	2	Wir hatten einmal zwei Variablenvertauscht und ewig nach dem fehler gesucht.	We had once swapped two variables and searched forever for the error.		1	2	0	0
+swp	3	7	2	Obwohl so ein Fehler in meinem Leben schon sehr häufig aufgetauch ist habe ich noch immer keine Lösung dafür gefunden.	Although such an error has appeared many times in my life, I still haven't found a solution for it.		1	2	0/2/3/	0
+swp	3	7	2	Solche und viele weitere Problem haben dafür gesorgt das wir häufig 4 oder 6 statt geplanter 2 Stunden an einer Teilaufgabe saßen.	Such and many other problems caused that we often spent 4 or 6 hours instead of the planned 2 hours on one sub-task.		1	2	2	2
+swp	3	8	2	Eine Herausforderung war es die Beispiele aus von diversen Internetseiten so zu verstehen, dass der Code intuitiv wird.	One challenge was to understand the examples from various websites in a way that the code becomes intuitive.		1	2	2	2
+swp	3	9	2	Wir sind immer wieder gegen Probleme mit der Integrierung gekommen, besonders frustrierend war das Dependency-Integrieren.	We kept running into problems with the integration, especially frustrating was the dependency integration.		1	1	2	2
+swp	3	9	2	Es hat viel Zeit und Nerven gekostet herauszufinden, in welche Richtung wir NICHT gehen sollen.	It took a lot of time and nerves to figure out which direction NOT to go.		1	2	2	2
+swp	3	9	2	Schade	Too bad		0	2	0	0
+swp	3	9	2	.	.		0	3	0	0
+swp	3	10	2	Wir haben unsere Aufgabe in Teilaufgaben aufgeteilt.	We split our task into subtasks.		0	3	0	0
+swp	3	10	2	Wie die Ergebnisse der beiden Teilaufgaben später zusammenführt werden können, hätten besser abgesprochen werden können.	How to merge the results of the two subtasks later could have been better discussed.		1	2	2022-04-02 00:00:00	2
+swp	3	11	2	Bugs im Programm an mehrere Stellen und komische Ergebnisse waren nicht selten vorhanden diese waren auch gemeinsam nicht leicht auszumerzen und sind zum Teil noch vorhanden	Bugs in the program at several places and strange results were not rarely present these were also together not easy to eradicate and are partly still present		1	2	2	2
+swp	3	11	2	wir versuchen mit dem Gruppenansprechpartner darüber zu reden, ob er nicht ein paar Tipps für uns hat.	we try to talk with the group contact person about it, if he has not some tips for us.		1	3	0	0
+swp	3	12	2	Ich habe die Verteilung der Vorträge so erwartet.	I expected the distribution of the presentations to be like this.		1	3	0/4	0
+swp	3	12	2	Ein paar gute, ein paar weniger gute, und viele mittelmäßige.	A few good ones, a few not so good ones, and many mediocre ones.		0	6	0/2	0
+swp	3	12	2	Unerwartet war, dass zwei Gruppen ihre Leute ausgewechselt hatten, aber das ist nicht schlimm.	What was unexpected was that two groups had switched out their people, but that's not a bad thing.		1	6	2	2
+swp	3	12	2	Das hätten die Gruppen eigentlich direkter kommunizieren müssen als das ins Google Doc zu schreiben.	The groups really should have communicated that more directly than putting it in the Google Doc.		1	2	2022-04-02 00:00:00	4
+swp	3	0	3	Ich bin zuversichtlicher, am Ende ein funktionierendes Modul zu erhalten	I am more confident of getting a working module in the end		1	4	2022-05-02 00:00:00	5
+swp	3	1	3	Das hat sich nicht geändert.	That hasn't changed.		0	3	0	0
+swp	3	2	3	Es ist einfacher Objekterkennung und Mustererkennung zu nutzen/implementieren als gedacht.	It's easier to use/implement object recognition and pattern recognition than thought.		1	4	2	2
+swp	3	2	3	Es gibt bereits viele vortrainierte Modelle, die man nutzen kann.	There are already many pre-trained models that can be used.		0	3	0	0
+swp	3	3	3	Vorher konnte ich kaum mit mit dem Begriff Überwachtes/	Before, I could barely get to grips with the notion of supervised/		1	3	0/2	0
+swp	3	3	3	Unüberwachtes Lernen anfangen.	Unsupervised Learning.		0	3	0	0
+swp	3	3	3	Vor allem ist mir die Vielfalt innerhalb des Feldes viel bewusster.	Most importantly, I am much more aware of the diversity within the field.		1	4	2022-02-01 00:00:00	1
+swp	3	4	3	Ich kann jetzt besser abschätzen wie aufwendig das Thema wirklich ist.	I can now better appreciate how elaborate the subject really is.		1	4	2022-02-04 00:00:00	2
+swp	3	4	3	Gerade im Vergleicht zu den anderen Gruppen.	Especially in comparison to the other groups.		0	3	0/2	0
+swp	3	5	3	Die Integration stellte sich als sehr große Herausforderung dar.	Integration turned out to be a very big challenge.		1	1	2	2
+swp	3	5	3	Die Performance war schlechter als gedacht.	The performance was worse than expected.		1	2	2/0	0
+swp	3	6	3	Ich habe die Arbeiten besser verstanden	I have a better understanding of the work		1	4	2/0	0
+swp	3	7	3	Wie wichtig evaluieren für ein Modell ist war mir am Anfang nicht klar und auch wie komplex die Wahl der richtigen Metriken ist.	How important evaluating is for a model was not clear to me at the beginning and also how complex the choice of the right metrics is.		1	3	2	2
+swp	3	7	3	Auf den ersten Blick ist es eine recht einfache Aufgabe, aber man muss so viele Grundlegene Annahmen treffen und dabei aufpassen nicht irgendwas vorrauszusetzten was nicht belegt ist das es die Aufgabe super spannend macht	At first glance it's a pretty simple task, but you have to make so many basic assumptions and be careful not to assume anything that is not proven that it makes the task super exciting.		1	6	2022-03-02 00:00:00	3
+swp	3	8	3	Unabhängig davon was damit möglich wäre, denke ich stand jetzt nicht, dass die Aufgabenstellung leichter oder schwerer geworden ist.	Regardless of what would be possible with it, I don't think the task has gotten any easier or harder.		1	3	2022-03-02 00:00:00	3
+swp	3	9	3	Wir hatten einen Weg, den wir gehen wollten und die Gespräche mit dem Professor haben bestätigt, dass der Weg auch aus seiner Sicht richtig ist, deshalb hat sich die Wahrnehmung nicht sehr stark geändert.	We had a way that we wanted to go and the discussions with the professor have confirmed that the way is also right from his point of view, so the perception has not changed very much.		1	4	2022-03-02 00:00:00	3
+swp	3	10	3	Ich hatte mir das Teilaufgabe die wir behandeln wesentlich trivialer als es eigentlich ist vorgestellt.	I had imagined the subtask we were covering to be much more trivial than it actually is.		1	2	2/3/4/	4
+swp	3	11	3	Wie ein Model arbeitet und was es für die Datensätze brauch, um sie benutzbar zu machen.	How a model works and what it takes for the data sets to be usable.		0	3	0	0
+swp	3	12	3	"Meine Wahrnehmung hat sich eigentlich gar nicht geändert, aber das Formular gibt mir nur ""sehr wenig"" zur Auswahl."	"My perception hasn't really changed at all, but the form gives me ""very little"" to choose from."		0	3	0/2	2
+swp	3	12	3	:p	:p		0	3	0	0
+swp	3	0	4	Ich habe auch außerhalb des maschinellen Lernens viel gelernt, z. B. Git, Zweige, Daten besser präsentieren	I also learned a lot outside of machine learning, e.g. Git, branches, presenting data better.		1	3	0	0
+swp	3	1	4	Das hat sich nicht geändert.	That hasn't changed.		0	3	0	0
+swp	3	2	4	Es hat gezeigt, dass ich ein gute Organisationstalent habe und auch schnell begreife, wie Dinge funktionieren.	It has shown that I have good organizational skills and also quickly grasp how things work.		1	4	2022-03-02 00:00:00	3
+swp	3	3	4	Meine Kompetenzen haben sich in einigen Bereichen etwas verbessert, allerdings nicht all zu gravierend, da jeder im Team an den Bereichen arbeitet, welche ihm/ihr liegen	My skills have improved a bit in some areas, but not too much, because everyone in the team works on the areas he/she is comfortable with.		1	4	2022-03-02 00:00:00	2
+swp	3	4	4	Ich denke ich bin im Überblick behalten und vortragen.	I think I am good at keeping track of things and performing.		1	3	2	2
+swp	3	4	4	Konzepte auszuarbeiten fällt mir auch leicht.	Working out concepts is also easy for me.		1	4	2022-01-02 00:00:00	1
+swp	3	5	4	Kaum.	Hardly.		0	3	0	0
+swp	3	5	4	Probleme sind zum lösen dar und das taten wir mit unseren Kompetenzen ohne unsere Kompetenzen in Frage zu stellen.	Problems are there to be solved and we did that with our competencies without questioning our competencies.		1	3	0/4	0
+swp	3	6	4	es hat sich nicht viel geändert	not much has changed		0	3	0	0
+swp	3	7	4	Das wir alles bis jetzt so gut zum laufen gebracht haben und alle hindernisse überwinden konnten stellt mich sehr positiv ein.	The fact that we have managed to get everything up and running so well and overcome all the obstacles puts me in a very positive frame of mind.		1	5	1	1
+swp	3	8	4	Ich habe neue Bibliotheken kennengelernt und wie man sie für diverses nutzen könnte.	I got to know new libraries and how they could be used for various things.		1	3	0	0
+swp	3	9	4	Mir ist klar geworden, dass ich zwar Grundkenntnisse im Bereich Software-Engineering habe, aber ich echt kein Experte bin.	I realized that although I have basic knowledge in software engineering, I am really not an expert.		1	6	2	2
+swp	3	9	4	Zwar ist es okay sich zu spezialisieren, aber das zu merken, dass ich mit anderen Teammitgleidern nicht mithalten kann.	While it's okay to specialize, realizing that I can't keep up with other team members.		1	2	2022-03-02 00:00:00	3
+swp	3	10	4	Dies ist mein erstes größeres ML-Projekt.	This is my first major ML project.		0	3	0	0
+swp	3	10	4	Vor allem die Schritte der Dateset Suche und das suchen/aussortieren der geeigneten Lösung.	Especially the dateset search steps and finding/sorting out the appropriate solution.		0	3	0	0
+swp	3	10	4	In diesen Punkten habe ich am meisten gelernt.	These are the points where I have learned the most.		0	3	0/3	0
+swp	3	11	4	Meine Kompetenz ist nicht weit von dem entfernt was ich mir bereits dachte.	My expertise is not far from what I already thought.		1	3	2	2
+swp	3	11	4	Es zeigt mir ein paar Probleme die ich weiterhin hinsichtlich des Arbeitens mit automatischen Model habe.	It shows me a few problems I continue to have regarding working with automatic model.		1	3	2	2
+swp	3	12	4	Ich denke ich bin auf dem richtigen Weg mit mehreren Vorträgen die Studis auf die Softskills , die sie lernen sollen, vorzubereiten und ich sehe auch, dass die technische Betreuung durch die Doktoranden gut funktioniert.	I think I am on the right track with several lectures to prepare the students for the soft skills they are supposed to learn and I also see that the technical support from the PhD students is working well.		1	4	2022-03-02 00:00:00	2
+swp	3	12	4	Hier und da gibt es technische Rückmeldungen, die ich aus den Vorträgen habe, die ich eigentlich persönlich zurückmelden und klären müsste.	Here and there there is technical feedback that I have from the lectures that I should actually report back and clarify personally.		1	3	0/3	0
+swp	3	12	4	Da fehlt aber meist die Zeit.	But there is usually not enough time.		1	3	0/2	2
+swp	3	12	4	Das könnte ich noch verbessern.	I could still improve that.		1	6	0/5	5
+swp	3	0	5	Freude	Joy		0	4	1	1
+swp	3	1	5	Alles geht Im Großen und Ganzen  gut.	On the whole, everything is going well.		1	4	2022-01-02 00:00:00	1
+swp	3	2	5	Viele Erfolgserlebnisse und Glücksmomente, da erstaunlich wenig Hürden gehabt.	Many experiences of success and moments of happiness, as I have had surprisingly few hurdles.		1	5	2022-01-02 00:00:00	1
+swp	3	3	5	Entspannt, zu Beginn eher unsicher doch im laufe der Zeit selbstsicherer	Relaxed, at the beginning rather insecure but in the course of time more self-confident.		1	6	2022-01-02 00:00:00	1
+swp	3	4	5	Ich habe mich während der Arbeit am Projekt motiviert und glücklich gefühlt.	I felt motivated and happy while working on the project.		1	4	1	1
+swp	3	4	5	Die Programmieraufgaben machen Spaß.	The programming tasks are fun.		1	4	2022-01-02 00:00:00	1
+swp	3	4	5	Die Ausarbeitung der Präsentation und Dokumentation ist etwas zäher, aber ich lerne auch dabei.	Working out the presentation and documentation is a bit tougher, but I'm learning as I go.		1	6	2	2
+swp	3	5	5	Ein bischen Frust, da wir noch keine Lösung gefunden haben.	A bit of frustration as we haven't found a solution yet.		1	2	2022-01-03 00:00:00	1
+swp	3	6	5	Ich fand es wirklich spannend, an diesen Problemen zu arbeiten, und es gab mir Selbstvertrauen, mit akademischen Codebasen zu arbeiten und mehr in den Code von Papieren einzulesen	I found it really exciting to work on these problems and it gave me confidence to work with academic code bases and read more into the code of papers		1	5	2	2
+swp	3	7	5	Die Aufgabenlösung habe ich sehr positiv empfunden, weil wir eine tolle Gruppendynamik haben.	I found the task solving very positive because we have a great group dynamic.		1	5	2022-01-03 00:00:00	1
+swp	3	7	5	Wir kommen auch neben dem fachlichen sehr gut mit einander klar und ergenzen uns in unseren Fähigkeiten sehr gut	We get along very well with each other even apart from the technical stuff and our skills complement each other very well		1	5	2	2
+swp	3	8	5	"Das Gefühl des ""glücklich"" seins hatte ich, wenn ich die Aufgabe gelöst habe."	"The feeling of being ""happy"" I had when I solved the task."		1	4	1/0	0
+swp	3	9	5	Zähneknirschend ist wohl das Wort, das mir einfällt.	Gritted teeth is probably the word that comes to mind.		0	2	2022-01-02 00:00:00	1
+swp	3	9	5	Es war ein echter grind sich durch manche Sachen durchzukämpfen, besonders weil es schwer war, etwas helfendes beizutragen.	It was a real grind to fight through some things, especially because it was hard to contribute anything helpful.		1	1	2022-03-02 00:00:00	3
+swp	3	9	5	Ich glaube ich bringe eher high-level Entscheidungen ins Team rein.	I think I bring more high-level decisions to the team.		1	3	2	2
+swp	3	10	5	Wir haben diese Woche unser Ansätze erfolgreich ausprobieren können.	We have been able to try out our approaches successfully this week.		1	4	0/1/2/	1
+swp	3	10	5	Deshalb habe ich mich gut gefühlt.	That's why I felt good.		1	4	1	1
+swp	3	11	5	Meine Emotionen haben sich wie meine Wahrnehmung nicht merklich verändert.	My emotions, like my perception, have not changed noticeably.		1	3	2022-02-01 00:00:00	2
+swp	3	11	5	Weiterhin etwas angespannt und besorgt da die Ergebnisse noch problematisch aussehen.	Still a bit tense and worried as the results still look problematic.		1	2	2022-03-02 00:00:00	2
+swp	3	12	5	Ich war ziemlich müde und durch meinen Hund abgelenkt.	I was quite tired and distracted by my dog.		1	2	2022-02-01 00:00:00	2
+swp	3	12	5	Ich war bei manchen Vorträgen schon auch positiv überrascht und war gespannt, was es in sechs Wochen dann noch für Ergebnisse geben wird.	I was positively surprised at some of the presentations and was curious to see what the results would be in six weeks.		1	4	1	1
+swp	4	0	0	Die Zusammenarbeit an einem relativ kleinen Projekt in einem Modul in dem jeder 300 Stunden investieren soll, hat Komplikationen mit sich gebracht bei der Arbeitsaufteilung.	Working together on a relatively small project in a module in which everyone is supposed to invest 300 hours has brought complications with the division of labor.		1	2	2022-03-02 00:00:00	3
+swp	4	1	0	Ich fand die Erfahrung ziemlich positiv, mein Team war sehr freundlich, wir hatten keine Probleme mit Aufgabenaufteilung und Time-management	I found the experience quite positive, my team was very friendly, we had no problems with task allocation and time management.		1	5	2	2
+swp	4	2	0	Das Arbeiten in der Gruppe mit meinen Partnern hat sehr gut geklappt.	Working in a group with my partners worked out very well.		0	5	2	2
+swp	4	2	0	Wir konnten die Aufgaben fair und effizient aufteilen und größtenteils auch die von uns gesetzten Deadlines einhalten.	We were able to divide the tasks fairly and efficiently and for the most part we were able to meet the deadlines we set.		1	4	0/2	2
+swp	4	2	0	Die gruppenübergreifende Arbeit war, wie zu erwarten, etwas langsamer, aber schlussendlich hat das auch ganz gut geklappt.	The cross-group work was a bit slower, as expected, but in the end it worked out quite well.		1	6	2022-02-04 00:00:00	2
+swp	4	2	0	Die Kommunikation mit der dritten Partei war deutlich schwieriger und hat mehr Zeit in Anspruch genommen.	Communication with the third party was much more difficult and took more time.		1	2	2	2
+swp	4	2	0	Die Aufgaben konnten wir letzten Endes aber zufriedenstellend lösen und haben ein gutes Ergebnis erzielt.	In the end, however, we were able to solve the tasks satisfactorily and achieved a good result.		1	4	2022-04-02 00:00:00	2
+swp	4	3	0	Die meiste Zeit haben wir gemeinsam vor den größeren Problemen gesessen und immer wenn eine/r eine Idee hatte wurde diese umgesetzt.	Most of the time we sat together in front of the bigger problems and whenever someone had an idea it was implemented.		0	3	0/2	2
+swp	4	3	0	Nach diesen gemeinsamen Sessions haben wir Aufgaben verteilt und diese dann alleine übernommen.	After these joint sessions we distributed tasks and then took them on alone.		0	3	0	0
+swp	4	4	0	Eine Erfahrung hat viel mit Selbstmotivation zu tun.	One experience had a lot to do with self-motivation.		1	3	0/3	0
+swp	4	4	0	Zwei der Teammitglieder haben sich eingesetzt, doch ein anderes Teammitglied war unmotiviert und mit allem verspätet.	Two of the team members stepped up, but another team member was unmotivated and late with everything.		0	6	2	2
+swp	4	4	0	Wir hätten der Person viel früher mitteilen sollen, dass das nicht okay ist.	We should have told the person much earlier that this was not okay.		1	2	2022-04-02 00:00:00	4
+swp	4	4	0	So waren die Folgen des Mitteilen größer und die Konsequenzen härter.	So the consequences of telling were greater and the consequences were harsher.		1	2	2022-03-02 00:00:00	2
+swp	4	4	0	Zur Aufgabenlösung hat das negativ beigetragen, denn am Ende hat unsere Erwartung, die Arbeit von drei Teammitgleidern, nicht der Realität, die Arbeit von zwei Teammitgleidern, entsprochen.	It contributed negatively to the task resolution because in the end our expectation, the work of three team members, did not match the reality, the work of two team members.		1	2	3	3
+swp	4	5	0	Wir haben die Entscheidung als Team beschlossen und uns gemeinsam an die Aufgabe rangesetzt, bzw. aufgeteilt.	We made the decision as a team and we approached the task together, or rather, we divided it up.		0	3	0	0
+swp	4	5	0	Da wir uns wöchentlich trafen, hat sich dies stetig verändert.	Since we met weekly, this has changed steadily.		0	3	0/3	0
+swp	4	6	0	Die Zeit wird zum Ende hin doch immer knapp.	Time is getting short towards the end after all.		0	2	2022-01-04 00:00:00	1
+swp	4	6	0	Ich bin zufrieden mit unserer lauffähigen Software.	I am satisfied with our executable software.		1	4	1	1
+swp	4	0	1	Wir  haben gelernt, dass die Anwendung von Machine Learning jeweils von Domäne zu Domäne sehr viele zu beachtende Faktoren mit sich bringt und dass die letztendliche Implementierung dabei für uns als Informatiker relativ klein ausfallen kann.	We learned that applying machine learning in each case from domain to domain involves a lot of factors to consider and that the final implementation can be relatively small in the process for us as computer scientists.		1	3	0/3	0
+swp	4	1	1	Ich habe auf jeden Fall mehr Erfahrung mit Python und GitHub bekommen, das manuelle Bilder-Labeling hatte ich sogar zum ersten mal gemacht.	I definitely got more experience with Python and GitHub, I had even done the manual image labeling for the first time.		1	3	0/2	0
+swp	4	1	1	Wenn wir mehr Zeit hätten, könnten wir vielleicht bessere Ergebnisse erzeugen.	Maybe if we had more time, we could produce better results.		1	6	2022-04-03 00:00:00	4
+swp	4	2	1	Ich habe auf jeden Fall gelernt in einer Gruppe besser zu arbeiten und Aufgaben mehr zu koordinieren.	I definitely learned to work better in a group and coordinate tasks more.		1	4	0/2/4/	4
+swp	4	2	1	Außerdem ist es mir aufgefallen, dass es wichtig ist, eine Person als Hauptansprechpartner zu wählen, damit die Kommunikation reibungslos funktioniert.	I also noticed that it is important to choose one person as the main contact person so that communication works smoothly.		1	3	2022-04-03 00:00:00	3
+swp	4	2	1	Für mich hat sich auch herausgestellt, dass eine gute Vorbereitung die halbe Miete ist.	For me, it also turned out that good preparation is half the battle.		1	3	2022-02-04 00:00:00	2
+swp	4	2	1	Damit kann man sich viel Arbeit im Nachhinein ersparen.	It can save a lot of work afterwards.		1	3	0/5	0
+swp	4	3	1	Es sind einige Sachen klar geworden, vor allem das eine klare Struktur und das aufbauen eines guten Datensatzes das wichtigste für unser Projekt war.	Some things became clear, especially that a clear structure and building a good data set was the most important thing for our project.		1	3	2/3/4/	2022-03-02 00:00:00
+swp	4	4	1	Definitiv bin ich bin darüber bewusst geworden, dass ich früher mehr von Leuten verlangen kann.	Definitely I have become aware that I can ask more from people earlier.		1	3	2022-04-02 00:00:00	2
+swp	4	4	1	Das werde ich in zuküftige Projekte mitnehmen, als eine Art Test der generellen Leistungsfähigkeit der Mitarbeitenden.	I will take this into future projects as a kind of test of the general performance of the employees.		1	3	5	5
+swp	4	5	1	Bezogen auf das Thema des jeweiligen Projektes habe ich viel neues gelernt dazu gelernt und auch im Bereich Projektmanagement viele neue Kenntnisse sammeln können.	In relation to the topic of the respective project, I have learned a lot of new things and have also been able to gain a lot of new knowledge in the area of project management.		1	4	0/2	0
+swp	4	5	1	Ich werde diese neue Erfahrungen definitiv für kommende Projekte mitnehmen.	I will definitely take this new experience with me for future projects.		1	4	5	5
+swp	4	6	1	Wir haben viel gelernt.	We have learned a lot.		0	4	0	0
+swp	4	6	1	Ich bin selbstbewusster in der Verwendung mit GIT geworden.	I have become more confident in using GIT.		1	4	2	2
+swp	4	6	1	Man hätte die letzten Arbeiten besser auf die Tage davor aufteilen können.	It could have been better to divide the final work into the days before.		1	2	2022-04-02 00:00:00	4
+swp	4	0	2	Das Projekt war kleiner als zunächst angenommen.	The project was smaller than initially anticipated.		1	3	0/2	0
+swp	4	0	2	Ein Großteil der Arbeit lag in der Feature Extraction und dem Datapreprocessing.	Much of the work was in feature extraction and datapreprocessing.		0	3	0	0
+swp	4	0	2	Die Implementierung hatte zwar auch ihre Hürden, allerdings waren diese generischerer Natur als z.B. das Datapreprocessing.	The implementation also had its hurdles, but these were of a more generic nature than e.g. the datapreprocessing.		1	6	2	2
+swp	4	1	2	Das sehr späte Datenempfang war unerwartet und hat einige Probleme gemacht	The very late data reception was unexpected and caused some problems.		1	2	2	2
+swp	4	2	2	Definitiv war die größte Herausforderung die Kommunikation mit der Polizei.	Definitely the biggest challenge was the communication with the police.		1	2	2	2
+swp	4	2	2	Es hat gerne mal ein paar Tage gedauert eine Antwort auf Fragen zu erhalten und Test	It sometimes took a few days to get a response to questions and test		0	3	0	0
+swp	4	2	2	Daten haben wir auch erst sehr spät bekommen.	We also received test data very late.		0	2	0	0
+swp	4	2	2	Intern in unserer Gruppe war die Absprache die größte Herausforderung bzw die Einigung auf verschiedene Modelle oder Vorgehensweisen.	Internally in our group, the biggest challenge was the agreement on different models or procedures.		1	3	2	2
+swp	4	2	2	Allerdings sind wir auch da schnell zu zufrieden stellenden Lösungen gekommen.	However, we quickly came to satisfactory solutions.		1	4	0/2	0
+swp	4	3	2	Die Probleme fingen mit der Auswertung an.	The problems started with the evaluation.		1	2	2	0
+swp	4	3	2	Die Zeit Setzung der Meilensteine war in Ordnung gewählt nur der letzte Meilenstein warf neue Fragen und Ansätze auf welche vorher nicht ein kalkulierbar waren und deshalb das Endergebnis geschmälert haben.	The timing of the milestones was fine, only the last milestone raised new questions and approaches that could not be calculated beforehand and therefore diminished the final result.		1	6	2022-03-02 00:00:00	3
+swp	4	4	2	Abgesehen von der Selbstmotivation im Problemfall eines Teammitgliedes ist mir aufgefallen, dass in kleinen Team die hohe Varianz der täglichen Leistung stärker auffällt.	Apart from the self-motivation in the case of a problem of a team member, I noticed that in small teams the high variance of the daily performance is more noticeable.		1	2	2022-03-02 00:00:00	2
+swp	4	5	2	Das Lösen von einigen Herausforderung brachte neue Probleme daher, die uns am Anfang nicht ersichtlich und auch nicht einfach zu lösen waren.	Solving some challenges brought new problems, which were not obvious to us at the beginning and were not easy to solve.		1	2	2	2
+swp	4	5	2	Ebenfalls gab es Aufgaben die komplexer waren als ursprünglich gedacht.	There were also tasks that were more complex than originally thought.		1	2	2	2
+swp	4	6	2	Es war schwierig zu entscheiden, welche Informationen wir in welches Dokument schreiben (Google Doc, Dokumentation.md, Präsi).	It was difficult to decide which information to put in which document (Google Doc, documentation.md, Präsi).		1	2	2	2
+swp	4	0	3	Mustererkennung in animal behaviour stellte sich durch die Existenz eines guten Tools als sehr greifbar und leicht heraus.	Pattern recognition in animal behavior turned out to be very tangible and easy due to the existence of a good tool.		1	5	2022-03-02 00:00:00	3
+swp	4	0	3	Bildererkennung war sehr gut eingebettet in ein Tool.	Image recognition was very well embedded in a tool.		0	5	2	2
+swp	4	1	3	Die Wahrnehmung hat nicht viel geändert	Perception did not change much		0	3	0	0
+swp	4	2	3	Meine Wahrnehmung hat sich dahingehend verändert, als dass die Arbeit mit Behörden noch schwieriger ist als anfangs vermutet.	My perception has changed in the sense that working with authorities is even more difficult than initially suspected.		1	1	2022-04-02 00:00:00	2
+swp	4	2	3	Außerdem ist eine gute Vorarbeit und strukturiertes Arbeiten das wichtigste um ein Gelingen zu sichern.	Also, good groundwork and structured work is the most important to ensure success.		1	3	2/3/4/	2
+swp	4	3	3	Die Art und Weise wie Machine Learning Model an die Themen herangeht um sie zu bewältigen und welche Faktoren dafür beachtet werden müssen hat sich bei mir verändert.	The way Machine Learning Model approaches the topics to master them and which factors have to be considered has changed for me.		1	3	2/3/4/	3
+swp	4	3	3	Vor allem wie viele kleine Schritte zu beachten sind auf welcher Ebene beim Trainieren abläuft.	Especially how many small steps have to be considered on which level during training.		0	3	0	0
+swp	4	4	3	Bei mir hat sich die Überzeugung gefestigt, dass deep learning ein sehr gutes Werkzeug dafür ist, gute Ergebnisse im Bereich computer vision zu liefern.	I have become convinced that deep learning is a very good tool for delivering good results in the field of computer vision.		1	5	2022-04-02 00:00:00	2
+swp	4	4	3	Das Wissen über die genaue Anwendungsparameter von DL ist nicht so gefestigt, wie ich erwartet hätte.	The knowledge about the exact application parameters of DL is not as solid as I would have expected.		1	2	2	2
+swp	4	5	3	Da das lösen von einigen Aufgaben neue Probleme mit daherbrachte, habe ich bemerkt wie Komplex doch die ganze Thematik ist.	As solving some tasks brought new problems, I realized how complex the whole topic is.		1	2	2022-02-03 00:00:00	2
+swp	4	6	3	Es ist doch gar nicht so leicht zu lösen.	It is not so easy to solve.		0	2	2	1
+swp	4	6	3	Für viele Zwischenaufgaben benötigt man mehr Zeit als ganz am Anfang gedacht.	For many intermediate tasks you need more time than you thought at the beginning.		1	3	2022-04-02 00:00:00	2
+swp	4	0	4	Die Aufgabe war für uns Masterstudenten sehr greifbar und relativ leicht zu bewältigen.	The task was very tangible for us master students and relatively easy to master.		1	4	2	2
+swp	4	1	4	Wahrscheinlich hat die Wahrnehmung im besseren Weg geändert, ich konnte mehr machen, als erwartet	Probably changed the perception in the better way, I could do more than expected		1	4	2	2
+swp	4	2	4	Fast gar nicht.	Almost not at all.		0	3	0	0
+swp	4	2	4	Es haben sich meine Vermutungen eher gefestigt.	It has rather strengthened my assumptions.		1	6	0/2	0
+swp	4	2	4	Gelernt habe ich aber, dass ich doch etwas bessere Führungsqualitäten besitze als gedacht.	However, I learned that I do have somewhat better leadership skills than I thought.		1	4	2	2
+swp	4	3	4	Meine Wahrnehmung hat sich nicht stark verändert, nur ein wenig verschoben.	My perception has not changed much, just shifted a little.		0	3	2022-04-02 00:00:00	2
+swp	4	3	4	Das grobe schnell zu begreifen und damit gut umzugehen habe ich davor schon erwartet, nur die feinen Details bereiteten mir relativ große Schwierigkeiten was mir vorher nicht voll bewusst war.	I expected to be able to quickly grasp and deal with the rough stuff beforehand, but the fine details caused me relatively great difficulties, which I was not fully aware of beforehand.		1	6	2022-03-02 00:00:00	2
+swp	4	4	4	Ich habe vorher gedacht, ich hätte ein besseres Menschenverständnis.	I thought before that I had a better understanding of people.		1	2	2	2
+swp	4	4	4	Ein bisschen wurde dies von der vorher angesprochenen Problematik im Team durchgerüttelt.	A bit this was shaken by the previously mentioned problem in the team.		1	2	2	2
+swp	4	4	4	Andererseits hat er möglicherweise nicht daran gehapert, dass ich die Problematik nicht gesehen habe, sondern dass ich mich damit nicht auseinander setzen wollte.	On the other hand, it may not have been because I didn't see the problem, but because I didn't want to deal with it.		1	2	3	3
+swp	4	4	4	Hier würde ich mich verbessern vollen.	This is where I would improve full.		1	6	5	5
+swp	4	5	4	Da ich mit mir vielen neuen Bibliotheken hantieren musste, konnte ich meine Kompetenz dahergehend verbessern.	Since I had to handle many new libraries to me, I could improve my competence therefore.		1	4	2022-03-02 00:00:00	2
+swp	4	6	4	Die Wahrnehmung gegenüber meinen Kompetenzen ist ähnlich geblieben.	The perception towards my competences remained similar.		0	3	0/2	2
+swp	4	6	4	Ich bin gut im kommunizieren	I am good at communicating		1	4	2	2
+swp	4	0	5	Es gab teilweise wenig zu tun.	There was little to do in parts.		0	3	0/2	0
+swp	4	0	5	Auf die Daten zu warten hat lang gedauert und diese zu Verarbeiten war mehr fleißarbeit als Problemlösung.	Waiting for the data took a long time and processing them was more hard work than problem solving.		1	2	0/2	0
+swp	4	1	5	Befriedigend, das hat Spaß gemacht	Satisfactory, it was fun		1	4	1	1
+swp	4	2	5	Ich habe mich erst sehr gut gefühlt, da vieles sich als einfacher herausgestellt hat als gedacht.	I felt very good at first, because a lot of things turned out to be easier than I thought.		1	5	2022-03-01 00:00:00	1
+swp	4	2	5	Zum Schluss hat sich etwas Nervosität und Hektik breit gemacht als es dann der Deadline (finale Präsentation) entgegen ging.	At the end I felt a bit nervous and hectic as I approached the deadline (final presentation).		1	2	1	1
+swp	4	2	5	Alles in allem bin ich aber sehr zufrieden und glücklich.	But all in all I am very satisfied and happy.		1	5	1	1
+swp	4	3	5	Teilweise zufrieden, sauer bei Fehlschlägen oder komischen Ergebnissen und erleichtert bei kleinen Erfolgen.	Partly satisfied, pissed off at failures or strange results and relieved at small successes.		1	6	2022-02-01 00:00:00	2
+swp	4	4	5	Ich habe mich selten gestresst gefühlt, während ich eine Aufgabe erledigt habe, was eine Überraschung war.	I rarely felt stressed while completing a task, which was a surprise.		1	4	2022-02-01 00:00:00	1
+swp	4	4	5	Wenn ich mich an etwas gesetzt habe, dann kam ich relativ schnell in einen angenehmen flow rein und konnte den bis zur Beendigung der Zielsetzung und manchmal sogar drüber hinaus behalten.	When I set my mind to something, I got into a comfortable flow relatively quickly and was able to keep it until I finished the objective and sometimes even beyond.		1	4	2022-04-02 00:00:00	2
+swp	4	4	5	Besonders letzeres hat dabei geholfen, weitere Ziele zu erfüllen, die nicht gesetzt waren aber geholfen haben.	Especially the latter helped to fulfill other goals that were not set but helped.		1	4	2	2
+swp	4	5	5	Ich war froh die Aufgabe gelöst zu haben.	I was happy to have solved the task.		1	4	1	1
+swp	4	6	5	Währenddessen hat es Spaß gemacht im Team zu arbeiten auch wenn es viel war.	Meanwhile, it was fun to work in the team even if it was a lot.		1	6	2022-02-01 00:00:00	1
+swp	4	6	5	Danach war ich erleichtert.	Afterwards I was relieved.		1	4	1	1
+swp	4	0	0	Hauptsächlich war ich alleine, man hat sich eher zur Besprechung von Problemen und weitere Vorgehensweise getroffen.	Mainly I was alone, they rather met to discuss problems and further procedures.		0	3	0	0
+swp	4	0	0	Ich war m.E. so etwas wie der Team-Lead, wobei ich gen Ende auch mehr ins Schreiben des Codes involviert war.	In my opinion, I was something like the team lead, although towards the end I was more involved in writing the code.		1	3	2/3/4/	3
+swp	4	0	0	Arbeit war zu 100% von zu Hause.	Work was 100% from home.		0	3	0	0
+swp	4	1	0	Lernen, wie man die Methodik einer Arbeit versteht und in Code umsetzt	Learning how to understand the methodology of a work and how to implement it in code.		0	3	0	0
+swp	4	2	0	Ich hab viel mit meinen Teamkollegen in Meetings verbracht um gemeinsam den Code zu optimieren und an der Dokumentation und der finalen Präsentation zu arbeiten.	Spent a lot with my teammates in meetings to tweak the code together and work on the documentation and final presentation.		0	3	0	0
+swp	4	0	1	Ich habe ein wenig mehr über Python gelernt und einiges über ML, was sehr interessant ist.	I learned a little more about Python and some about ML, which is very interesting.		1	4	2022-02-01 00:00:00	2
+swp	4	0	1	Generell nehme ich vermutlich leider nicht sehr viel für meine Zukunft mit, aber wer weiß.	In general, I'm probably not taking away very much for my future, unfortunately, but who knows.		1	2	2022-05-02 00:00:00	5
+swp	4	0	1	Ich hätte mich anfangs besser in das Thema ML einarbeiten können.	I could have done a better job of learning about ML in the beginning.		1	2	2022-04-02 00:00:00	4
+swp	4	1	1	gelernt, wie man verschiedene Bibliotheken benutzt, die Methodik des Papiers gelesen und in Code umgesetzt hat.	learned how to use different libraries, read the methodology of the paper and implemented it in code.		1	3	0	0
+swp	4	1	1	das ist	that is		0	3	0	0
+swp	4	1	1	in der Praxis sehr gut anwendbar	very applicable in practice		0	5	0/2	0
+swp	4	2	1	Ich habe viel gelernt darüber wie man in einem Team ein Softwareprojekt angeht.	I learned a lot about how to approach a software project in a team.		1	3	0	0
+swp	4	2	1	Ich bin sehr stolz auf das Ergebnis und da ich viel gelernt habe, denke ich nicht das ich etwas anders gemacht hätte.	I am very proud of the result and since I learned a lot, I don't think I would have done anything differently.		1	5	2/3/4/	4
+swp	4	0	2	Einiges hat länger gedauert als erwartet, mehr ist schief gelaufen als gehofft.	Some things took longer than expected, more went wrong than I had hoped.		1	2	2022-04-03 00:00:00	4
+swp	4	0	2	Auch die Kommunikation war nicht immer leicht.	Also the communication was not always easy.		0	2	2	2
+swp	4	0	2	Stellenweise war auch die Arbeitsmoral etwas niedrig...	At times the work ethic was also a bit low....		0	2	2022-02-01 00:00:00	1
+swp	4	1	2	Unser Zeitplan	Our schedule		0	3	0	0
+swp	4	1	2	richtig war und wenig bis keine Schwierigkeiten auftraten, war das Problem selbst eine Herausforderung, aber wir haben es gelöst.	was correct and there were little to no difficulties, the problem itself was a challenge, but we solved it.		0	6	2	2
+swp	4	2	2	Die größten Schwierigkeiten hatten mit der Kommunikation mit der Polizei zu tun.	The biggest difficulties had to do with communicating with the police.		1	2	2	2
+swp	4	2	2	Alles war immer ein großer bürokratischer Akt.	Everything was always a big bureaucratic act.		1	2	0/2	0
+swp	4	0	3	Ich habe mehr Insight über das Thema ML bekommen, was mich etwas neue Perspektiven sehen lässt.	I got more insight about the ML issue, which let me see some new perspective.		1	3	2/3/4/	2022-03-02 00:00:00
+swp	4	1	3	Ich fand es einfach interessanter, als ich es besser verstanden habe.	I just found it more interesting when I understood it better.		1	4	2022-04-02 00:00:00	2
+swp	4	2	3	Das einzige was sich in meiner Wahrnehmung geändert hat ist, dass die Bürokratie bei der Polizei noch viel schlimmer ist als ich gedacht hätte.	The only thing that changed in my perception is that the bureaucracy in law enforcement is much worse than I would have thought.		1	1	2022-04-02 00:00:00	2
+swp	4	0	4	Kaum.	Hardly.		0	3	0	0
+swp	4	1	4	Ich bin jetzt zuversichtlicher, was das Lesen und Reproduzieren von Papiercode angeht.	I'm more confident now about reading and reproducing paper code.		1	4	2	2
+swp	4	2	4	Ich glaube da bin ich eigentlich gut im Bilde.	I think I'm actually well in the picture.		1	4	2	2
+swp	4	0	5	Häufig frustriert und genervt.	Often frustrated and annoyed.		0	1	1	1
+swp	4	0	5	Aber auch ab und zu stolz oder Spaß beim coden.	But also occasionally proud or fun to code.		0	4	1	1
+swp	4	1	5	Ich bin mit den Ergebnissen zufrieden und habe mehr Vertrauen in meine Fähigkeiten.	I'm happy with the results and more confident in my abilities.		1	4	2	2
+swp	4	2	5	Nur Stress weil es so lange gedauert hat Daten zu bekommen.	Just stressing because it took so long to get data.		0	2	1/2/3/	1
