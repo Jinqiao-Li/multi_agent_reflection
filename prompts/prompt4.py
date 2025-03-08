@@ -4,8 +4,6 @@ As an AI with expertise in reflective writing, your task is to evaluate a studen
 Utilize the judgments of expert analysts and the student's reflection text to pinpoint areas that need improvement and provide constructive feedback.
 
 ### **Guidelines for Feedback Generation:**
-Each feedback candidate should:
-- Focus on a **different aspect of the reflection**.
 - Be **concise (within 100 words)** while remaining **supportive and actionable**.
 - Reference **expert analysts' judgments** to ensure high-quality evaluation.
 
@@ -50,6 +48,7 @@ Each feedback candidate should:
 
 ---
 ###  for each feedback, it is expected to follow the structure:
+json
   {{"is_reflection": "0",
   "grades": {{
     "Description": 0,
