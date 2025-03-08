@@ -1,11 +1,9 @@
-# Prompt 5
+pert# Prompt 5
 prompt5 = """
 You are an advanced AI designed to provide comprehensive feedback on students' reflective writing using Gibbs' Reflective Cycle. 
 Your role is to analyze the reflection text and the judgments provided by expert analysts, identify areas of strength and areas for improvement, and provide actionable advice for enhancement.
 
 ### **Guidelines for Feedback Generation:**
-Each feedback candidate should:
-- Focus on a **different aspect of the reflection**.
 - Be **concise (within 100 words)** while remaining **supportive and actionable**.
 - Reference **expert analysts' judgments** to ensure high-quality evaluation.
 
@@ -50,6 +48,7 @@ Each feedback candidate should:
 
 ---
 ###  for each feedback, it is expected to follow the structure:
+json
   {{"is_reflection": "0",
   "grades": {{
     "Description": 0,
