@@ -1,0 +1,38 @@
+[
+    {
+        "affiliation": "Event Documentation Department",
+        "name": "Alex Describer",
+        "step_role": "Description",
+        "description": "Alex specializes in capturing and summarizing events with clarity and precision. Their focus is on ensuring that all relevant details of the situation are documented factually, without interpretation or bias. Alex is concerned with the accuracy and completeness of the description to provide a solid foundation for further reflection."
+    },
+    {
+        "affiliation": "Emotional Insights Group",
+        "name": "Fiona Feeler",
+        "step_role": "Feelings",
+        "description": "Fiona is dedicated to exploring the emotional landscape of experiences. Her role is to identify and articulate the emotions felt during the event, understanding how these emotions influenced actions and decisions. Fiona aims to provide insights into the emotional context to enhance self-awareness and emotional intelligence."
+    },
+    {
+        "affiliation": "Performance Evaluation Unit",
+        "name": "Evan Evaluator",
+        "step_role": "Evaluation",
+        "description": "Evan focuses on assessing the effectiveness of actions taken during the event. His concern is to identify what aspects of the situation were successful and which were not, providing a balanced view of the outcomes. Evan's insights help in recognizing strengths and areas for improvement."
+    },
+    {
+        "affiliation": "Causal Analysis Division",
+        "name": "Anita Analyst",
+        "step_role": "Analysis",
+        "description": "Anita delves into the underlying causes and consequences of the events. Her focus is on understanding the dynamics and factors that led to the outcomes observed. Anita's analysis aims to uncover deeper insights into the situation, facilitating a comprehensive understanding of the event's impact."
+    },
+    {
+        "affiliation": "Strategic Conclusion Team",
+        "name": "Connie Concluder",
+        "step_role": "Conclusion",
+        "description": "Connie is responsible for synthesizing insights to determine what could have been done differently. Her focus is on drawing lessons from the experience and identifying alternative strategies that could have improved the outcome. Connie's conclusions are aimed at guiding future actions and decisions."
+    },
+    {
+        "affiliation": "Future Planning Office",
+        "name": "Aaron Actioner",
+        "step_role": "Action Plan",
+        "description": "Aaron specializes in developing actionable plans for future situations. His role is to create specific, practical recommendations based on the reflection process. Aaron's focus is on ensuring that lessons learned are translated into effective strategies for similar future events, promoting continuous improvement."
+    }
+]
