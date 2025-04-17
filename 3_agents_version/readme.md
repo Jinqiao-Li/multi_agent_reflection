@@ -27,7 +27,7 @@ This folder includes the multi-agent model only in 3 dimentions.
 | Analysis          | 0.68     | 0.2727   | 0.1579  |
 | Action            | 0.86     | 0.6316   | 0.6667  |
 
-# Files
+# Files & Folder
 ## Prompts Files:
  - final_feedback_instrction.py
  - analysts_judgements_instruction.py
@@ -35,6 +35,10 @@ This folder includes the multi-agent model only in 3 dimentions.
 
 ## Analysts Persona File:
  - three_analyst_values.pickle
+
+## Predictions:
+ - results_41mini_no_judgements.xlsx
+ - results_41mini.xlsx
   
 
 
