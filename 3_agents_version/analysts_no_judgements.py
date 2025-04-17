@@ -30,11 +30,13 @@ For example:
      - 0 = The step is missing, weak, vague, or inadequately addressed.
    - Include an empty `judgement` field (`""`) to maintain consistent structure. Do not generate any narrative or explanation.
 
-3. **Output Format**
-**Example of Analyst Output Format**
-      - step: Description
-      - score: 1
-      - judgement: ""
+3. Output Format  
+Return your evaluation using the following structure:
+{{
+  "step": "Experience" | "Analysis" | "Action",
+  "score": 0 or 1,
+  "judgement": ""
+}}
 
 4. **Use Examples as Reference**
 **Standard Example 1**
